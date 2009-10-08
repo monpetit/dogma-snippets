@@ -1,11 +1,5 @@
-;; This buffer is for notes you don't want to save, and for Lisp evaluation.
-;; If you want to create a file, visit that file with C-x C-f,
-;; then enter the text in that file's own buffer.
 
-
-#+sbcl (require :cl-utilities)
-#+(or clisp ccl) (asdf-require :cl-utilities)
-
+(asdf-require :cl-utilities)
 
 (with-open-file (stream "c:/work/lisp/dbtest/hanja-dict.txt"
                         :direction :input)
@@ -23,4 +17,3 @@
       (maphash #'(lambda (k v)
                    (format outbuf "~s~%" (cons k v)))
                *hanja-table*))))
-

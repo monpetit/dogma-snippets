@@ -1,5 +1,5 @@
 ;; -*- mode: lisp -*-
-;; -*- encoding: utf-8 -*-
+;; -*- coding: utf-8 -*-
 
 (def newline ()
   (prt "\n"))

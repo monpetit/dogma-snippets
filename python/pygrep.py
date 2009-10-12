@@ -12,13 +12,15 @@ op = OptionParser(usage=usage)
 op.add_option('-i', '--ignore-case',
               action='store_true', dest='ignore_case', default=False,
               help='ignore case distinctions')
+op.add_option('-e', '--encoding',
+              action='store', type='string', dest='encoding', default='mbcs',
+              help='the encoding of input files. default = MBCS')
 
-
-def grep(reobj, f, length):
+def grep(reobj, f, length, encoding='mbcs'):
     if f == sys.stdin:
         fd = f
     else:
-        fd = open(f, mode='rt', encoding='mbcs')
+        fd = open(f, mode='rt', encoding=encoding)
 
     if length == 1: fname = ''
     else: fname = f + ':'
@@ -55,7 +57,7 @@ def main():
     files = (len(args) > 1) and args[1:] or (sys.stdin, )
 
     for f in files:
-        grep(reobject, f, len(files))
+        grep(reobject, f, len(files), options.encoding)
 
 
 if __name__ == '__main__':

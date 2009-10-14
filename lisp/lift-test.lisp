@@ -1,9 +1,5 @@
-;; This buffer is for notes you don't want to save, and for Lisp evaluation.
-;; If you want to create a file, visit that file with C-x C-f,
-;; then enter the text in that file's own buffer.
 
-#+sbcl (require :lift)
-#-sbcl (asdf-require :lift)
+(asdf-require :lift)
 
 (lift:deftestsuite bdb-test () ())
 
@@ -32,10 +28,10 @@
 
 (lift:addtest (petit-test)
   (lift:ensure-error (/ 1 0)))
- 
+
 (lift:addtest (petit-test)
   (lift:ensure-error (= 3 (+ 1 2))))
-  
+
 (lift:addtest (petit-test)
   (lift:ensure-error (+ 3 (+ 1 2))))
 

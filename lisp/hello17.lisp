@@ -1,6 +1,3 @@
-;; This buffer is for notes you don't want to save, and for Lisp evaluation.
-;; If you want to create a file, visit that file with C-x C-f,
-;; then enter the text in that file's own buffer.
 
 (imports '(dm:prt dm:prc dm:prtln dm:prcln))
 
@@ -184,7 +181,7 @@
 
 ;; #+allegro (use-package :clos)
 ;; #+sbcl (use-package :sb-mop)
-;; 
+;;
 ;; (prt
 ;;   (#-abcl generic-function-methods #+abcl sys:generic-function-methods #'요리))
 

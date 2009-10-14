@@ -1,10 +1,3 @@
-;; This buffer is for notes you don't want to save, and for Lisp evaluation.
-;; If you want to create a file, visit that file with C-x C-f
-;; then enter the text in that file's own buffer.
-
-;; This buffer is for notes you don't want to save, and for Lisp evaluation.
-;; If you want to create a file, visit that file with C-x C-f
-;; then enter the text in that file's own buffer.
 
 (def 변수 '(세상엔 내가 너무도 많아 당신의 쉴 곳 없네))
 (println 변수)

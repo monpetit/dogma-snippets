@@ -1,6 +1,3 @@
-;; This buffer is for notes you don't want to save, and for Lisp evaluation.
-;; If you want to create a file, visit that file with C-x C-f
-;; then enter the text in that file's own buffer.
 
 (use '[clojure.contrib.repl-utils])
 (require 'clojure.contrib.mmap)
@@ -25,4 +22,3 @@
    (prt "에러를 받아서 좀 전에 뿌렸습니다."))
  (finally
   (println "아무리 그래도 마지막으로 이건 해야죠...")))
-

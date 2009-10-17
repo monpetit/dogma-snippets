@@ -6,27 +6,27 @@
 
 (let ((err-code (multiple-value-bind (res err)
                     (ignore-errors
-                      (pt:prt 'monpetit)
+                      (dm:prt 'monpetit)
                       (/ 1 0))
                   (class-name (class-of err)))))
-  (pt:prt err-code)
-  (pt:prt (if (eql err-code 'division-by-zero)
+  (dm:prt err-code)
+  (dm:prt (if (eql err-code 'division-by-zero)
            '(oh no division by zero accurred)
            '(and so on...))))
 
 #-abcl
 (let ((err-code (multiple-value-bind (res err)
                     (ignore-errors
-                      (pt:prt 'monpetit)
+                      (dm:prt 'monpetit)
                       (error "some error" 'myerror))
                   (describe err)
-                  (mapcar #'(lambda (x) (pt:prt (closer-mop:slot-definition-name x)))
+                  (mapcar #'(lambda (x) (dm:prt (closer-mop:slot-definition-name x)))
                           (closer-mop:class-slots (class-of err)))
-                  ;;   (pt:prt (slot-value err 'system::$format-control))
-                  ;;   (pt:prt (car (slot-value err 'system::$format-arguments)))
+                  ;;   (dm:prt (slot-value err 'system::$format-control))
+                  ;;   (dm:prt (car (slot-value err 'system::$format-arguments)))
                   (class-name (class-of err)))))
-  (pt:prt err-code)
-  (pt:prt (if (eql err-code 'division-by-zero)
+  (dm:prt err-code)
+  (dm:prt (if (eql err-code 'division-by-zero)
            '(oh no division by zero accurred)
            '(and so on...))))
 
@@ -48,10 +48,10 @@
     (ignore-errors
       (petit-error :message "진짜로 그냥 에러" :code 'some-monpetit-error))
   ;;      (error 'petit-error :message "그냥 에러" :code 'some-unknown-error))
-  (pt:prt "result:" result)
-  (pt:prt "error:" err)
+  (dm:prt "result:" result)
+  (dm:prt "error:" err)
   (describe err)
-  (pt:prt (message err) (code err)))
+  (dm:prt (message err) (code err)))
 
 
 (define-condition dogma-error (simple-error error)
@@ -73,16 +73,16 @@
 
 
 
-(pt:prt (handler-case
+(dm:prt (handler-case
          (progn
-           (pt:prt '(hander-case test start...))
+           (dm:prt '(hander-case test start...))
            (dotimes (i 10)
-             (pt:prt i 'hello 'monpetit)
+             (dm:prt i 'hello 'monpetit)
              (if (> i 3)
                  (dogma-error :message "일부러 낸 에러..." :code :intended-error)))
-           (pt:prt '(hander-case test end...)))
+           (dm:prt '(hander-case test end...)))
        (dogma-error (e)
-         (pt:prt (message-of e))
+         (dm:prt (message-of e))
          (code-of e)) ;; :dogma-error-occurred)
        (simple-error () :simple-error-occurred)
        (petit-error () :petit-error-occurred)

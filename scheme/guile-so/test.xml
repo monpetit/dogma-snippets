@@ -1,0 +1,2385 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DCSubtitle Version="1.0">
+	<SubtitleID>9C6302E4-63FE-441F-9A3A-84DDAAD8B28D</SubtitleID>
+	<MovieTitle>Demo DLP Digital Cinema XML</MovieTitle>
+	<ReelNumber>1</ReelNumber>
+	<Language>English</Language>
+	<LoadFont Id="Nanumgothic" URI="Nanumgothic.ttf"/>
+	<Font Id="Nanumgothic" Size="57" Color="EFECEFEF" Weight="bold" Italic="no" Underlined="no" Effect="border" EffectColor="FF000000">
+
+
+	<Font Size="45" Italic="yes">
+	<Subtitle SpotNumber="1" TimeIn="00:00:42:062" TimeOut="00:00:47:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" HPosition="0.00" VPosition="24.00">수입/제공 ㅣ (주)코리아스크린</Text>
+		<Text VAlign="bottom" HPosition="0.50" VPosition="17.00">배      급  ㅣ (주)화앤담이엔티</Text>
+		<Text VAlign="bottom" HPosition="-1.50" VPosition="10.00">공동 제공 ㅣ (주)IBK캐피탈</Text>
+	</Subtitle>
+	</Font>
+
+
+	<Subtitle SpotNumber="2" TimeIn="00:01:33:219" TimeOut="00:01:36:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">벌써 아침이야?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="3" TimeIn="00:02:23:021" TimeOut="00:02:24:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제로드</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="4" TimeIn="00:02:27:240" TimeOut="00:02:29:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제로드, 일어나봐!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="5" TimeIn="00:02:31:156" TimeOut="00:02:33:021" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">괜찮아</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="6" TimeIn="00:02:45:083" TimeOut="00:02:46:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">저게 뭐야?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="7" TimeIn="00:02:47:052" TimeOut="00:02:48:135" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">모르겠어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="8" TimeIn="00:02:51:240" TimeOut="00:02:53:083" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">레이!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="9" TimeIn="00:02:58:052" TimeOut="00:02:59:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">넌 여기 있어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="10" TimeIn="00:03:01:208" TimeOut="00:03:02:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">왜 그래요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="11" TimeIn="00:03:02:208" TimeOut="00:03:04:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">사라졌어요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="12" TimeIn="00:03:18:188" TimeOut="00:03:19:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제로드!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="13" TimeIn="00:03:20:073" TimeOut="00:03:21:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제로드!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="14" TimeIn="00:03:26:125" TimeOut="00:03:28:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제로드, 안돼요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="15" TimeIn="00:03:30:208" TimeOut="00:03:32:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제로드!</Text>
+	</Subtitle>
+
+	<Subtitle SpotNumber="16" TimeIn="00:03:35:010" TimeOut="00:03:42:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="-1.00">.</Text>
+	</Subtitle>
+
+	<Font Italic="yes">
+	<Subtitle SpotNumber="17" TimeIn="00:03:57:104" TimeOut="00:03:59:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="40.00">음료 서비스를</Text>
+		<Text VAlign="bottom" VPosition="32.00">시작하오니</Text>
+	</Subtitle>
+	</Font>
+
+	<Font Size="45" Italic="yes" Color="FFD7DDFF" Effect="shadow" EffectColor="FF000000">
+	<Subtitle SpotNumber="17-1" TimeIn="00:03:58:104" TimeOut="00:04:01:229" FadeUpTime="100" FadeDownTime="100">
+		<Text VAlign="bottom" VPosition="24.00">-15시간 전-</Text>
+	</Subtitle>
+	</Font>
+
+	<Font Italic="yes">
+	<Subtitle SpotNumber="19" TimeIn="00:04:01:229" TimeOut="00:04:05:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="32.00">기내책자에서</Text>
+		<Text VAlign="bottom" VPosition="24.00">메뉴를 확인하세요</Text>
+	</Subtitle>
+	</Font>
+
+
+	<Subtitle SpotNumber="20" TimeIn="00:04:06:104" TimeOut="00:04:08:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">뭘로 할까</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="21" TimeIn="00:04:08:240" TimeOut="00:04:11:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">일레인, 네가 골라줘</Text>
+	</Subtitle>
+
+
+	<Font Italic="yes">
+	<Subtitle SpotNumber="22" TimeIn="00:04:21:219" TimeOut="00:04:24:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">J-락, T-머니?</Text>
+	</Subtitle>
+	</Font>
+
+
+	<Subtitle SpotNumber="23" TimeIn="00:04:24:188" TimeOut="00:04:27:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">우리가...</Text>
+		<Text VAlign="bottom" VPosition="10.00">살짝 앞서갔어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="24" TimeIn="00:04:27:229" TimeOut="00:04:29:083" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">좀 튀었지</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="25" TimeIn="00:04:29:083" TimeOut="00:04:32:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">자긴 하나도</Text>
+		<Text VAlign="bottom" VPosition="10.00">안 변했네</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="26" TimeIn="00:04:32:104" TimeOut="00:04:33:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">테리만 변했지</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="27" TimeIn="00:04:34:208" TimeOut="00:04:38:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">보면 알거야</Text>
+		<Text VAlign="bottom" VPosition="10.00">완전 인간됐어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="28" TimeIn="00:04:38:031" TimeOut="00:04:39:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">빨리 보고 싶네</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="29" TimeIn="00:04:53:240" TimeOut="00:04:55:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">다녀오셨습니까</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="30" TimeIn="00:04:56:156" TimeOut="00:04:58:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">뭐, 별일은 없죠?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="31" TimeIn="00:04:58:208" TimeOut="00:04:59:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그럼요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="32" TimeIn="00:05:06:167" TimeOut="00:05:11:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">일 저지르기 전에</Text>
+		<Text VAlign="bottom" VPosition="10.00">계산부터 했어야지</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="33" TimeIn="00:05:12:073" TimeOut="00:05:15:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 이렇게 일찍 웬일이야?</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 날이 참 좋아요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="34" TimeIn="00:05:15:042" TimeOut="00:05:16:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그것도 모를까봐?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="35" TimeIn="00:05:17:104" TimeOut="00:05:19:135" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">로봇 땜에 레이가</Text>
+		<Text VAlign="bottom" VPosition="10.00">전화했어요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="36" TimeIn="00:05:19:135" TimeOut="00:05:20:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">알아서 하라 그래</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="37" TimeIn="00:05:20:219" TimeOut="00:05:22:146" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">생일엔 일 안해</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="38" TimeIn="00:05:26:052" TimeOut="00:05:29:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 자기야</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 쟨 여기서 살거래?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="39" TimeIn="00:05:29:240" TimeOut="00:05:32:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">CG쪽 일이</Text>
+		<Text VAlign="bottom" VPosition="10.00">원래 그렇잖아</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="40" TimeIn="00:05:33:083" TimeOut="00:05:35:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">땀범벅이야</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="41" TimeIn="00:05:58:083" TimeOut="00:06:00:062" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">일레인, 괜찮아?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="42" TimeIn="00:06:00:062" TimeOut="00:06:02:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">응, 별거 아냐</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="43" TimeIn="00:06:09:031" TimeOut="00:06:11:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제가 꺼내드리죠</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="44" TimeIn="00:06:11:115" TimeOut="00:06:12:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 여기요</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 고마워요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="45" TimeIn="00:06:12:156" TimeOut="00:06:13:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">뭘요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="46" TimeIn="00:06:14:156" TimeOut="00:06:17:146" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 역시 자긴 신사야</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 가기나 해</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="47" TimeIn="00:06:24:177" TimeOut="00:06:26:094" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">J-락</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="48" TimeIn="00:06:28:156" TimeOut="00:06:30:146" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">네, 우리예요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="49" TimeIn="00:06:34:219" TimeOut="00:06:37:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">사람 제대로</Text>
+		<Text VAlign="bottom" VPosition="10.00">놀래키는군</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="50" TimeIn="00:06:37:188" TimeOut="00:06:39:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">버릇 들면 안 되는데</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="51" TimeIn="00:06:39:208" TimeOut="00:06:41:062" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">누구, 나?</Text>
+	</Subtitle>
+
+
+	<Font Italic="yes">
+	<Subtitle SpotNumber="52" TimeIn="00:07:17:000" TimeOut="00:07:18:135" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">펜트하우스</Text>
+	</Subtitle>
+	</Font>
+
+
+
+	<Subtitle SpotNumber="53" TimeIn="00:07:20:229" TimeOut="00:07:23:052" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그래 뭐, 가자</Text>
+	</Subtitle>
+
+
+
+	<Subtitle SpotNumber="54" TimeIn="00:07:24:167" TimeOut="00:07:27:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">브레인 넘버2,</Text>
+		<Text VAlign="bottom" VPosition="10.00">잘 살았냐?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="55" TimeIn="00:07:27:010" TimeOut="00:07:28:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그건 너 아니었냐?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="56" TimeIn="00:07:28:219" TimeOut="00:07:30:021" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">나야 잘 살지</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="57" TimeIn="00:07:31:229" TimeOut="00:07:33:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">생일 축하한다!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="58" TimeIn="00:07:33:156" TimeOut="00:07:36:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">일레인이군요</Text>
+		<Text VAlign="bottom" VPosition="10.00">잘 왔어요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="59" TimeIn="00:07:38:135" TimeOut="00:07:40:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">장난 아니다</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="60" TimeIn="00:07:40:000" TimeOut="00:07:45:021" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">자동화 시스템을</Text>
+		<Text VAlign="bottom" VPosition="10.00">구름 위에서 즐기고 있지</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="61" TimeIn="00:07:45:021" TimeOut="00:07:47:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">경치가 정말</Text>
+		<Text VAlign="bottom" VPosition="10.00">장관이에요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="62" TimeIn="00:07:48:135" TimeOut="00:07:50:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">궁금한게 있는데</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="63" TimeIn="00:07:50:240" TimeOut="00:07:52:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">쟤 관리하기 힘들죠?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="64" TimeIn="00:07:52:198" TimeOut="00:07:54:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">대꾸해주지 마</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="65" TimeIn="00:07:54:188" TimeOut="00:07:57:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 까분다</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 제 직업인걸요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="66" TimeIn="00:07:57:104" TimeOut="00:08:00:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">쟤가 얼마를 주든</Text>
+		<Text VAlign="bottom" VPosition="10.00">두배 드리죠</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="67" TimeIn="00:08:00:240" TimeOut="00:08:04:021" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">상대할 여자분이</Text>
+		<Text VAlign="bottom" VPosition="10.00">줄섰는데요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="68" TimeIn="00:08:04:021" TimeOut="00:08:08:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">합격점인걸</Text>
+		<Text VAlign="bottom" VPosition="10.00">저쪽 방 써</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="69" TimeIn="00:08:08:000" TimeOut="00:08:09:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">풀장 가서 놀래?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="70" TimeIn="00:08:10:010" TimeOut="00:08:11:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">말이 필요 없지</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="71" TimeIn="00:08:11:240" TimeOut="00:08:12:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">자기야!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="72" TimeIn="00:08:13:219" TimeOut="00:08:15:062" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">물놀이 가자!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="73" TimeIn="00:08:19:042" TimeOut="00:08:21:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 오랜만이야</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 잘 지내지?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="74" TimeIn="00:08:22:229" TimeOut="00:08:25:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 나 칵테일 좀!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 그래, 갖고 있어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="75" TimeIn="00:08:25:115" TimeOut="00:08:27:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">야, 바는 이쪽이야</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="76" TimeIn="00:08:31:167" TimeOut="00:08:35:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">너 성공했구나!</Text>
+		<Text VAlign="bottom" VPosition="10.00">다들 짐작은 했지만...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="77" TimeIn="00:08:35:073" TimeOut="00:08:38:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 어서 오세요</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 안녕하세요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="78" TimeIn="00:08:38:031" TimeOut="00:08:40:177" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">다 네 덕이지 뭐</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="79" TimeIn="00:08:40:177" TimeOut="00:08:42:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">벽에 그림밖에</Text>
+		<Text VAlign="bottom" VPosition="10.00">더 그려줬냐?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="80" TimeIn="00:08:42:198" TimeOut="00:08:45:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 걸작이더라</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 그렇긴 하지</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="81" TimeIn="00:08:45:198" TimeOut="00:08:48:021" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">생일 축하해요, 테리</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="82" TimeIn="00:08:48:021" TimeOut="00:08:51:135" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">그래!</Text>
+		<Text VAlign="bottom" VPosition="10.00">자축할건 해야지</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="83" TimeIn="00:08:53:208" TimeOut="00:08:58:062" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">어떻게 고마워해야 할지,</Text>
+		<Text VAlign="bottom" VPosition="10.00">네 덕에 호강한다</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="84" TimeIn="00:08:59:021" TimeOut="00:09:01:094" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">은혜 갚을 기회 줄게</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="85" TimeIn="00:09:01:094" TimeOut="00:09:02:135" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">일단 가자</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="86" TimeIn="00:09:05:146" TimeOut="00:09:07:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">여긴 분위기가</Text>
+		<Text VAlign="bottom" VPosition="10.00">훈훈한데?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="87" TimeIn="00:09:10:010" TimeOut="00:09:11:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 자기야</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 응?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="88" TimeIn="00:09:11:219" TimeOut="00:09:13:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">내 칵테일은?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="89" TimeIn="00:09:13:125" TimeOut="00:09:15:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">아이고, 깜빡했네</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="90" TimeIn="00:09:15:240" TimeOut="00:09:17:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">드니즈, 부탁해</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="91" TimeIn="00:09:17:229" TimeOut="00:09:20:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 한잔 드려요?</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 아뇨</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="92" TimeIn="00:09:25:021" TimeOut="00:09:27:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">여긴 겨울이 없겠어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="93" TimeIn="00:09:27:104" TimeOut="00:09:29:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">그래도 사계절은</Text>
+		<Text VAlign="bottom" VPosition="10.00">있어야지</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="94" TimeIn="00:09:29:104" TimeOut="00:09:32:021" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">"포시즌 호텔"은</Text>
+		<Text VAlign="bottom" VPosition="10.00">있는데</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="95" TimeIn="00:09:32:021" TimeOut="00:09:37:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">내일은 파도 좀 타자</Text>
+		<Text VAlign="bottom" VPosition="10.00">내 "선 시커"에 초대하지</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="96" TimeIn="00:09:38:208" TimeOut="00:09:42:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">20미터짜리</Text>
+		<Text VAlign="bottom" VPosition="10.00">내 첫 요트란거 아니냐!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="97" TimeIn="00:09:48:031" TimeOut="00:09:49:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">비상 걸렸나보군</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="98" TimeIn="00:09:49:240" TimeOut="00:09:52:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">오늘밤 파티가</Text>
+		<Text VAlign="bottom" VPosition="10.00">살벌할걸 아나봐!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="99" TimeIn="00:09:52:208" TimeOut="00:09:54:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">자기야, 하지 마</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="100" TimeIn="00:09:56:219" TimeOut="00:09:58:062" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">위하여!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="101" TimeIn="00:10:00:115" TimeOut="00:10:02:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">생일 축하해요, 테리!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="102" TimeIn="00:10:02:219" TimeOut="00:10:03:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">왔냐?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="103" TimeIn="00:10:03:240" TimeOut="00:10:06:146" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 신경 썼구나</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 잘 지내지?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="104" TimeIn="00:10:09:229" TimeOut="00:10:11:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">소개할 사람이 있어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="105" TimeIn="00:10:11:042" TimeOut="00:10:13:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 레이!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 잠깐</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="106" TimeIn="00:10:14:208" TimeOut="00:10:19:083" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 짜식, 생일 축하한다</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 고맙다</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="107" TimeIn="00:10:19:083" TimeOut="00:10:22:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 로봇 프로젝트는?</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 거의 최악이지!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="108" TimeIn="00:10:22:167" TimeOut="00:10:25:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">근데 감독이</Text>
+		<Text VAlign="bottom" VPosition="10.00">뻑 가셨으니...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="109" TimeIn="00:10:25:229" TimeOut="00:10:27:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그 천재소년?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="110" TimeIn="00:10:27:219" TimeOut="00:10:31:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 응</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 여자친구시구나</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="111" TimeIn="00:10:31:240" TimeOut="00:10:33:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">만나서 반가워요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="112" TimeIn="00:10:33:167" TimeOut="00:10:36:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 저도요</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 합류한다면서요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="113" TimeIn="00:10:38:062" TimeOut="00:10:39:062" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그게 전...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="114" TimeIn="00:10:39:062" TimeOut="00:10:42:146" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">살 데는 찾았어요?</Text>
+		<Text VAlign="bottom" VPosition="10.00">우리동네가 좋은데</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="115" TimeIn="00:10:42:146" TimeOut="00:10:46:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 기억해둘게요</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 구경시켜 줄게요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="116" TimeIn="00:10:46:115" TimeOut="00:10:49:083" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 전 화장실 좀</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 네</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="117" TimeIn="00:10:49:083" TimeOut="00:10:51:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 실례할게요</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 아니, 자기야...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="118" TimeIn="00:10:51:198" TimeOut="00:10:52:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">일레인!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="119" TimeIn="00:10:53:094" TimeOut="00:10:54:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">열 받았나봐요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="120" TimeIn="00:10:54:219" TimeOut="00:10:57:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 한건 했네요</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 너땜에 못산다</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="121" TimeIn="00:10:57:104" TimeOut="00:10:59:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">무슨 소리야?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="122" TimeIn="00:10:59:073" TimeOut="00:11:00:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">뭐해요, 언니들?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="123" TimeIn="00:11:00:208" TimeOut="00:11:02:135" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">미안해</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="124" TimeIn="00:11:02:135" TimeOut="00:11:04:177" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">무슨 소리야?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="125" TimeIn="00:11:04:177" TimeOut="00:11:09:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">실은, 비밀리에</Text>
+		<Text VAlign="bottom" VPosition="10.00">추진하려고 했었어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="126" TimeIn="00:11:09:188" TimeOut="00:11:11:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">생각해봤는데...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="127" TimeIn="00:11:12:188" TimeOut="00:11:14:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">LA로 와라</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="128" TimeIn="00:11:15:000" TimeOut="00:11:16:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">뭐 해먹고 살라고?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="129" TimeIn="00:11:16:188" TimeOut="00:11:19:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">고향에서도</Text>
+		<Text VAlign="bottom" VPosition="10.00">근근이 사는데</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="130" TimeIn="00:11:19:156" TimeOut="00:11:21:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">내가 써먹게</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="131" TimeIn="00:11:21:125" TimeOut="00:11:24:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 동정은 사양한다</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 제대로 말하지</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="132" TimeIn="00:11:24:208" TimeOut="00:11:26:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">네가 필요해</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="133" TimeIn="00:11:26:208" TimeOut="00:11:28:135" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">나 그쪽엔</Text>
+		<Text VAlign="bottom" VPosition="10.00">문외한이야</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="134" TimeIn="00:11:28:135" TimeOut="00:11:31:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 엄살은!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 엄살 아냐</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="135" TimeIn="00:11:31:042" TimeOut="00:11:33:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">너 보는 눈 있잖아</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="136" TimeIn="00:11:33:125" TimeOut="00:11:36:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">대상만 컴퓨터로</Text>
+		<Text VAlign="bottom" VPosition="10.00">바꾸면 돼</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="137" TimeIn="00:11:36:188" TimeOut="00:11:41:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">잘 모르겠다</Text>
+		<Text VAlign="bottom" VPosition="10.00">여기 오는건 생각 안 해봤어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="138" TimeIn="00:11:41:229" TimeOut="00:11:44:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">따로 생각해둔거</Text>
+		<Text VAlign="bottom" VPosition="10.00">있어?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="139" TimeIn="00:11:44:219" TimeOut="00:11:46:094" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">5개년 계획이라도</Text>
+		<Text VAlign="bottom" VPosition="10.00">세웠냐?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="140" TimeIn="00:11:46:094" TimeOut="00:11:49:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">돈 때문이 아냐</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="141" TimeIn="00:11:49:042" TimeOut="00:11:51:094" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">모든건 돈 때문이야</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="142" TimeIn="00:11:54:208" TimeOut="00:11:56:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">일레인은 어쩌고?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="143" TimeIn="00:11:58:146" TimeOut="00:12:02:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">그거까지 내가 어쩌냐</Text>
+		<Text VAlign="bottom" VPosition="10.00">그건 네가 알아서 해야지</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="144" TimeIn="00:12:02:156" TimeOut="00:12:05:062" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">사장님, 위층에</Text>
+		<Text VAlign="bottom" VPosition="10.00">전화 와있어요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="145" TimeIn="00:12:05:062" TimeOut="00:12:06:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">고민 좀 해봐라</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="146" TimeIn="00:12:23:188" TimeOut="00:12:25:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">일레인</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="147" TimeIn="00:12:30:240" TimeOut="00:12:32:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">왜 그래?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="148" TimeIn="00:12:33:219" TimeOut="00:12:35:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">재밌게 지내야지</Text>
+		<Text VAlign="bottom" VPosition="10.00">이게 뭐야?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="149" TimeIn="00:12:35:219" TimeOut="00:12:38:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">꿈도 꾸지 마</Text>
+		<Text VAlign="bottom" VPosition="10.00">알았어?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="150" TimeIn="00:12:39:229" TimeOut="00:12:44:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">저기, 여기 오란 얘긴</Text>
+		<Text VAlign="bottom" VPosition="10.00">오늘 꺼낸거야</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="151" TimeIn="00:12:44:000" TimeOut="00:12:46:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 난 전혀...</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 그걸 안 해</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="152" TimeIn="00:12:47:240" TimeOut="00:12:49:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">뭘 안 해?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="153" TimeIn="00:12:50:021" TimeOut="00:12:52:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">매달 하는거</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="154" TimeIn="00:12:56:104" TimeOut="00:12:57:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">죄송해요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="155" TimeIn="00:13:03:219" TimeOut="00:13:06:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 언제부터야?</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 몰라</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="156" TimeIn="00:13:06:229" TimeOut="00:13:10:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">내내 울렁대길래</Text>
+		<Text VAlign="bottom" VPosition="10.00">임신테스트를 했더니...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="157" TimeIn="00:13:11:240" TimeOut="00:13:14:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">왜 말 안 했어?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="158" TimeIn="00:13:14:042" TimeOut="00:13:17:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">하고 싶었지만...</Text>
+		<Text VAlign="bottom" VPosition="10.00">혹시라도...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="159" TimeIn="00:13:17:240" TimeOut="00:13:19:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">네 여행 망칠까봐</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="160" TimeIn="00:13:19:198" TimeOut="00:13:21:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">여행...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="161" TimeIn="00:13:26:031" TimeOut="00:13:27:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">젠장</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="162" TimeIn="00:13:27:198" TimeOut="00:13:29:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그 말밖에 못해?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="163" TimeIn="00:13:29:240" TimeOut="00:13:31:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그럼 무슨 말을 할까?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="164" TimeIn="00:13:34:031" TimeOut="00:13:37:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 난 준비가 안됐어</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 준비가 안됐다고?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="165" TimeIn="00:13:37:198" TimeOut="00:13:39:062" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그럼 난?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="166" TimeIn="00:13:39:229" TimeOut="00:13:42:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">그런 뜻이...</Text>
+		<Text VAlign="bottom" VPosition="10.00">나가줄...?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="167" TimeIn="00:13:51:167" TimeOut="00:13:54:094" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">겨우 이렇게</Text>
+		<Text VAlign="bottom" VPosition="10.00">되는거였니?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="168" TimeIn="00:13:58:219" TimeOut="00:13:59:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">일레인</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="169" TimeIn="00:14:08:208" TimeOut="00:14:10:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">주목!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="170" TimeIn="00:14:10:125" TimeOut="00:14:14:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">드디어 한다!</Text>
+		<Text VAlign="bottom" VPosition="10.00">완전 라이브 쇼야</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="171" TimeIn="00:14:15:240" TimeOut="00:14:18:135" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">오늘의</Text>
+		<Text VAlign="bottom" VPosition="10.00">남우주연입니다!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="172" TimeIn="00:14:19:000" TimeOut="00:14:21:021" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">진짜 죽이는데!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="173" TimeIn="00:14:22:010" TimeOut="00:14:23:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">오예!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="174" TimeIn="00:14:28:177" TimeOut="00:14:32:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">완전 대박이다!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="175" TimeIn="00:14:46:208" TimeOut="00:14:50:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">죄송한데 시끄럽다는</Text>
+		<Text VAlign="bottom" VPosition="10.00">항의가 들어와서요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="176" TimeIn="00:14:50:219" TimeOut="00:14:52:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">누구한테서요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="177" TimeIn="00:14:52:156" TimeOut="00:14:54:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">건물 반은 비었는데</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="178" TimeIn="00:14:54:042" TimeOut="00:14:58:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">그렇긴 합니다만</Text>
+		<Text VAlign="bottom" VPosition="10.00">나머지 반은 잘 시간이라...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="179" TimeIn="00:14:58:198" TimeOut="00:15:00:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 알았어요</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 네</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="180" TimeIn="00:15:15:000" TimeOut="00:15:18:146" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">화끈하게도 노네</Text>
+		<Text VAlign="bottom" VPosition="10.00">아이구야!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="181" TimeIn="00:15:20:010" TimeOut="00:15:21:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">누워볼까나</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="182" TimeIn="00:15:23:135" TimeOut="00:15:26:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 제가 먼저 찜했어요</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 야박하긴!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="183" TimeIn="00:15:26:010" TimeOut="00:15:28:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 자리도 충분하구만</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 혼자가 좋아요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="184" TimeIn="00:15:29:177" TimeOut="00:15:32:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">알았어요</Text>
+		<Text VAlign="bottom" VPosition="10.00">싫다는데 깨갱해야지</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="185" TimeIn="00:15:43:135" TimeOut="00:15:44:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">잘 자</Text>
+	</Subtitle>
+
+
+	<Font Size="45" Italic="yes" Color="FFD7DDFF" Effect="shadow" EffectColor="FF000000">
+		<Subtitle SpotNumber="186" TimeIn="00:16:01:115" TimeOut="00:16:05:104" FadeUpTime="100" FadeDownTime="100">
+		<Text VAlign="bottom" HPosition="-21.00" VPosition="16.70">첫째날-새벽 4:27</Text>
+		</Subtitle>
+	</Font>
+
+
+	<Subtitle SpotNumber="187" TimeIn="00:17:06:240" TimeOut="00:17:08:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">지진이야?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="188" TimeIn="00:17:09:083" TimeOut="00:17:11:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">좀 흔들리다 말겠지</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="189" TimeIn="00:17:55:000" TimeOut="00:17:56:146" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">불 좀 꺼줘요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="190" TimeIn="00:18:08:000" TimeOut="00:18:09:021" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">레이?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="191" TimeIn="00:18:10:167" TimeOut="00:18:12:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">뭐해요?</Text>
+	</Subtitle>
+
+	<Subtitle SpotNumber="193" TimeIn="00:18:30:146" TimeOut="00:18:32:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">레이!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="194" TimeIn="00:18:38:240" TimeOut="00:18:40:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">넌 여기 있어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="195" TimeIn="00:18:42:219" TimeOut="00:18:45:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 왜 그래요?</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 사라졌어요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="196" TimeIn="00:18:55:104" TimeOut="00:18:57:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제로드, 안돼요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="197" TimeIn="00:18:57:156" TimeOut="00:18:58:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제로드</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="198" TimeIn="00:18:58:240" TimeOut="00:19:00:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">안돼요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="199" TimeIn="00:19:00:010" TimeOut="00:19:01:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제로드, 제로드!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="200" TimeIn="00:19:01:240" TimeOut="00:19:03:177" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 안돼요!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 대체 무슨 일이야?!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="201" TimeIn="00:19:03:177" TimeOut="00:19:06:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">사장님, 빨리 좀</Text>
+		<Text VAlign="bottom" VPosition="10.00">도와줘요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="202" TimeIn="00:19:09:042" TimeOut="00:19:10:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">너 대체 왜 그래?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="203" TimeIn="00:19:12:083" TimeOut="00:19:13:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제로드!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="204" TimeIn="00:19:14:146" TimeOut="00:19:16:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">맙소사, 제로드</Text>
+		<Text VAlign="bottom" VPosition="10.00">제로드!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="205" TimeIn="00:19:16:219" TimeOut="00:19:18:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 제로드!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 제발...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="206" TimeIn="00:19:18:240" TimeOut="00:19:20:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">어떻게 된거야?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="207" TimeIn="00:19:22:010" TimeOut="00:19:24:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 제로드!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 제로드, 어떡해!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="208" TimeIn="00:19:26:010" TimeOut="00:19:28:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">제로드!</Text>
+		<Text VAlign="bottom" VPosition="10.00">저게 뭐지?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="209" TimeIn="00:19:31:146" TimeOut="00:19:33:021" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">어떻게 된거예요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="210" TimeIn="00:19:34:135" TimeOut="00:19:37:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 제로드</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 세상에!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="211" TimeIn="00:19:37:167" TimeOut="00:19:39:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 레이는?</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 사장님</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="212" TimeIn="00:19:39:010" TimeOut="00:19:41:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 레이는?</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 안돼요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="213" TimeIn="00:19:41:208" TimeOut="00:19:43:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 제로드</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 어디 갔냐구!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="214" TimeIn="00:19:43:031" TimeOut="00:19:44:146" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 사라졌어요</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 사라지다니?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="215" TimeIn="00:19:44:146" TimeOut="00:19:46:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 사라졌다구요</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 떨어졌어?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="216" TimeIn="00:19:46:031" TimeOut="00:19:49:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">아뇨!</Text>
+		<Text VAlign="bottom" VPosition="10.00">몰라요, 모르겠어요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="217" TimeIn="00:19:50:208" TimeOut="00:19:52:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제발 정신차려</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="218" TimeIn="00:19:52:198" TimeOut="00:19:55:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">나 보여?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="219" TimeIn="00:19:56:219" TimeOut="00:20:00:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">그냥...</Text>
+		<Text VAlign="bottom" VPosition="10.00">사라져버렸어요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="220" TimeIn="00:20:04:000" TimeOut="00:20:05:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">자기야</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="221" TimeIn="00:20:06:010" TimeOut="00:20:08:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 테리!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 사장님, 안돼요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="222" TimeIn="00:20:28:021" TimeOut="00:20:30:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제로드, 나 좀 봐</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="223" TimeIn="00:20:30:073" TimeOut="00:20:33:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">뭘 본거야?</Text>
+		<Text VAlign="bottom" VPosition="10.00">뭘 본건데?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="224" TimeIn="00:20:35:219" TimeOut="00:20:36:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">조심해</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="225" TimeIn="00:20:47:104" TimeOut="00:20:49:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">어떻게 된거야?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="226" TimeIn="00:20:52:000" TimeOut="00:20:53:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">모르겠어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="227" TimeIn="00:20:58:021" TimeOut="00:20:59:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">뭔가가 끌어당겼어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="228" TimeIn="00:21:01:010" TimeOut="00:21:03:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">불빛으로...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="229" TimeIn="00:21:12:167" TimeOut="00:21:15:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 드니즈, 블라인드 올려봐</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 싫어요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="230" TimeIn="00:21:15:219" TimeOut="00:21:17:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 올려보래두!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 싫어요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="231" TimeIn="00:21:17:229" TimeOut="00:21:19:083" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">미치겠네!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="232" TimeIn="00:21:30:229" TimeOut="00:21:33:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">아래 뭔가 있어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="233" TimeIn="00:21:33:010" TimeOut="00:21:34:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">뭐가요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="234" TimeIn="00:21:34:125" TimeOut="00:21:36:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제로드, 와서 봐봐</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="235" TimeIn="00:21:49:104" TimeOut="00:21:51:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">아무것도 안 보여</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="236" TimeIn="00:21:53:000" TimeOut="00:21:55:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">옥상에</Text>
+		<Text VAlign="bottom" VPosition="10.00">사람들이 있어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="237" TimeIn="00:21:55:010" TimeOut="00:21:56:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">거기서 뭐하는데?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="238" TimeIn="00:21:57:083" TimeOut="00:21:58:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">몰라</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="239" TimeIn="00:22:01:167" TimeOut="00:22:03:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">확인해보자</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="240" TimeIn="00:22:03:104" TimeOut="00:22:05:135" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">뭐가 있을줄 알구요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="241" TimeIn="00:22:09:104" TimeOut="00:22:11:146" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 그러자</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 그래</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="242" TimeIn="00:22:12:010" TimeOut="00:22:14:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">경찰에 신고할게</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="243" TimeIn="00:22:17:000" TimeOut="00:22:20:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 사진 좀 찍어야겠어</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 나가면 안돼</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="244" TimeIn="00:22:21:115" TimeOut="00:22:23:177" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">혼자 보낼순 없잖아</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="245" TimeIn="00:22:23:177" TimeOut="00:22:25:146" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">신호만 가고 안 받아</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="246" TimeIn="00:22:30:240" TimeOut="00:22:33:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">총까지?</Text>
+		<Text VAlign="bottom" VPosition="10.00">괜찮겠어?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="247" TimeIn="00:22:34:104" TimeOut="00:22:36:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">뉴스 틀어봐</Text>
+		<Text VAlign="bottom" VPosition="10.00">무슨 일인지 보게</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="248" TimeIn="00:22:36:208" TimeOut="00:22:39:135" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 테리!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 금방 올게</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="249" TimeIn="00:22:40:229" TimeOut="00:22:42:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제로드</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="250" TimeIn="00:22:42:000" TimeOut="00:22:43:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">나 좀 봐</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="251" TimeIn="00:22:52:188" TimeOut="00:22:54:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">가자</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="252" TimeIn="00:22:54:042" TimeOut="00:22:55:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">빨리 와</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="253" TimeIn="00:23:24:062" TimeOut="00:23:26:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">이쪽으로 가보자</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="254" TimeIn="00:23:54:104" TimeOut="00:23:57:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 놀랐잖아요</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 무슨 일인가?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="255" TimeIn="00:23:57:156" TimeOut="00:23:59:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그걸 알아보려구요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="256" TimeIn="00:23:59:031" TimeOut="00:24:00:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">총은 뭐하게?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="257" TimeIn="00:24:00:208" TimeOut="00:24:03:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">들어가계세요</Text>
+		<Text VAlign="bottom" VPosition="10.00">어서요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="258" TimeIn="00:24:03:240" TimeOut="00:24:06:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">조용히 하시구요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="259" TimeIn="00:24:12:240" TimeOut="00:24:13:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">야</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="260" TimeIn="00:24:15:208" TimeOut="00:24:17:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">괜찮을까?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="261" TimeIn="00:24:28:052" TimeOut="00:24:31:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">새벽 4시 이후론</Text>
+		<Text VAlign="bottom" VPosition="10.00">올라온게 없어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="262" TimeIn="00:24:32:208" TimeOut="00:24:34:177" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">드니즈, TV 켜봐</Text>
+	</Subtitle>
+
+
+	<Font Italic="yes">
+	<Subtitle SpotNumber="263" TimeIn="00:24:45:135" TimeOut="00:24:46:135" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">비상상황</Text>
+	</Subtitle>
+	</Font>
+
+
+	<Subtitle SpotNumber="264" TimeIn="00:25:04:135" TimeOut="00:25:06:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">조용한데</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="265" TimeIn="00:25:11:031" TimeOut="00:25:14:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 너 뭐하냐?</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 열어두란 말 안 했잖아</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="266" TimeIn="00:25:14:240" TimeOut="00:25:16:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그쯤은 상식이지</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="267" TimeIn="00:25:18:062" TimeOut="00:25:19:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">미안해</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="268" TimeIn="00:25:22:177" TimeOut="00:25:23:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">앉아!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="269" TimeIn="00:25:28:177" TimeOut="00:25:30:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">어쩌지?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="270" TimeIn="00:25:31:240" TimeOut="00:25:33:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">잘 보이는 데로 가자</Text>
+	</Subtitle>
+
+
+	<Font Italic="yes">
+	<Subtitle SpotNumber="271" TimeIn="00:25:40:219" TimeOut="00:25:43:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">재키입니다</Text>
+		<Text VAlign="bottom" VPosition="10.00">메시지를 남겨주세요</Text>
+	</Subtitle>
+	</Font>
+
+
+	<Subtitle SpotNumber="272" TimeIn="00:25:44:177" TimeOut="00:25:49:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">엄마, 난데</Text>
+		<Text VAlign="bottom" VPosition="10.00">일이 생겨서...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="273" TimeIn="00:25:50:219" TimeOut="00:25:52:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">받아봐</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="274" TimeIn="00:25:52:219" TimeOut="00:25:54:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제발...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="275" TimeIn="00:25:55:240" TimeOut="00:25:58:135" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">이거 들으면</Text>
+		<Text VAlign="bottom" VPosition="10.00">바로 전화 줘</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="276" TimeIn="00:26:57:208" TimeOut="00:26:59:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">맙소사!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="277" TimeIn="00:27:29:177" TimeOut="00:27:33:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">잘... 안 보이는데</Text>
+		<Text VAlign="bottom" VPosition="10.00">내가...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="278" TimeIn="00:27:33:000" TimeOut="00:27:34:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제대로 본거 맞아?!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="279" TimeIn="00:27:39:198" TimeOut="00:27:41:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">맙소사</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="280" TimeIn="00:28:16:240" TimeOut="00:28:18:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 가자</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 뭔데?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="281" TimeIn="00:28:19:010" TimeOut="00:28:21:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 뛰어, 어서!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 가!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="282" TimeIn="00:28:27:062" TimeOut="00:28:28:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">어서 당겨!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="283" TimeIn="00:28:28:115" TimeOut="00:28:29:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">저리 비켜봐!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="284" TimeIn="00:28:33:021" TimeOut="00:28:35:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">어서 열어봐!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="285" TimeIn="00:28:37:042" TimeOut="00:28:41:052" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 비켜봐!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 어서 쏴!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="286" TimeIn="00:28:45:177" TimeOut="00:28:47:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 당겨!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 보지 마</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="287" TimeIn="00:28:50:208" TimeOut="00:28:53:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">일레인, 안돼!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="288" TimeIn="00:29:05:229" TimeOut="00:29:07:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 저리 비켜요!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 네</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="289" TimeIn="00:29:09:000" TimeOut="00:29:10:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">정신차려</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="290" TimeIn="00:29:12:021" TimeOut="00:29:13:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">자기, 괜찮아?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="291" TimeIn="00:29:14:229" TimeOut="00:29:16:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">불붙은거 같아!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="292" TimeIn="00:29:16:219" TimeOut="00:29:18:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">얼음 좀!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="293" TimeIn="00:29:18:115" TimeOut="00:29:20:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">조금만 참아</Text>
+		<Text VAlign="bottom" VPosition="10.00">나 여깄어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="294" TimeIn="00:29:25:000" TimeOut="00:29:26:177" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">이리 줘요, 어서</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="295" TimeIn="00:29:30:115" TimeOut="00:29:33:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">금방 괜찮아질거야</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="296" TimeIn="00:29:48:219" TimeOut="00:29:50:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">괜찮아?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="297" TimeIn="00:29:58:219" TimeOut="00:30:00:177" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">너도 봤구나</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="298" TimeIn="00:30:04:031" TimeOut="00:30:05:177" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">대체 어떻게...?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="299" TimeIn="00:30:23:229" TimeOut="00:30:25:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">세상에!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="300" TimeIn="00:30:28:000" TimeOut="00:30:29:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">저 사람들을 다...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="301" TimeIn="00:30:37:219" TimeOut="00:30:39:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">왜 데려가는거죠?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="302" TimeIn="00:30:39:167" TimeOut="00:30:41:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그걸 누가 알겠어요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="303" TimeIn="00:30:42:125" TimeOut="00:30:46:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">도저히 믿기질 않아</Text>
+		<Text VAlign="bottom" VPosition="10.00">어떻게 한거지?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="304" TimeIn="00:30:46:208" TimeOut="00:30:48:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">일단 빛만 보면...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="305" TimeIn="00:30:52:042" TimeOut="00:30:53:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">꼼짝 못해요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="306" TimeIn="00:30:54:167" TimeOut="00:30:57:052" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 마치...</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 우릴 조종하죠</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="307" TimeIn="00:30:58:146" TimeOut="00:31:01:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">아름다우니까</Text>
+		<Text VAlign="bottom" VPosition="10.00">보게 되잖아요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="308" TimeIn="00:31:03:198" TimeOut="00:31:05:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">눈이 다 부시던데</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="309" TimeIn="00:31:06:198" TimeOut="00:31:09:062" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">뭐 이런 일이 다 있어!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="310" TimeIn="00:31:09:062" TimeOut="00:31:11:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">어떻게든 해봐야지</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="311" TimeIn="00:31:11:094" TimeOut="00:31:12:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 어디 가게?</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 월트한테</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="312" TimeIn="00:31:12:240" TimeOut="00:31:14:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 가서 뭐하게?</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 걱정 마</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="313" TimeIn="00:31:14:188" TimeOut="00:31:16:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 테리</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 다 잘될거야</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="314" TimeIn="00:31:45:135" TimeOut="00:31:46:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제로드</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="315" TimeIn="00:31:47:177" TimeOut="00:31:49:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">괜찮아?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="316" TimeIn="00:31:50:052" TimeOut="00:31:53:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 응, 괜찮아</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 어디 봐</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="317" TimeIn="00:31:53:031" TimeOut="00:31:55:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">별거 아니래두</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="318" TimeIn="00:31:57:031" TimeOut="00:31:58:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">알았어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="319" TimeIn="00:31:59:229" TimeOut="00:32:01:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">저기...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="320" TimeIn="00:32:25:073" TimeOut="00:32:26:135" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">월트</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="321" TimeIn="00:32:40:115" TimeOut="00:32:42:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">계세요, 월트!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="322" TimeIn="00:32:44:052" TimeOut="00:32:45:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">월트!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="323" TimeIn="00:32:49:052" TimeOut="00:32:50:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">월트!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="324" TimeIn="00:32:53:000" TimeOut="00:32:54:094" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">안에 계세요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="325" TimeIn="00:33:16:135" TimeOut="00:33:18:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">거기서 뭐하세요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="326" TimeIn="00:33:18:073" TimeOut="00:33:19:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">숨어있네</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="327" TimeIn="00:33:20:167" TimeOut="00:33:22:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">사람들을 봤어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="328" TimeIn="00:33:22:010" TimeOut="00:33:26:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">꼭 하늘로</Text>
+		<Text VAlign="bottom" VPosition="10.00">승천하는거 같던데</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="329" TimeIn="00:33:26:104" TimeOut="00:33:27:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">가요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="330" TimeIn="00:33:27:167" TimeOut="00:33:31:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 아저씨 차 타고 가자구요</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 나 밖에 안 나가</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="331" TimeIn="00:33:34:042" TimeOut="00:33:35:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">숙여요, 어서!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="332" TimeIn="00:33:40:240" TimeOut="00:33:43:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">개 입 좀 막아요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="333" TimeIn="00:34:22:219" TimeOut="00:34:24:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">맙소사...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="334" TimeIn="00:34:59:219" TimeOut="00:35:02:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 말콤!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 안돼요, 월트!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="335" TimeIn="00:35:32:167" TimeOut="00:35:34:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">들었어요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="336" TimeIn="00:35:38:073" TimeOut="00:35:40:062" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">뭐야?</Text>
+		<Text VAlign="bottom" VPosition="10.00">말해봐</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="337" TimeIn="00:35:41:031" TimeOut="00:35:43:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">내 보트 타고 가자</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="338" TimeIn="00:35:43:000" TimeOut="00:35:45:083" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 무슨 일인데?</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 월트를 데려갔어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="339" TimeIn="00:35:45:083" TimeOut="00:35:47:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">데려가다니</Text>
+		<Text VAlign="bottom" VPosition="10.00">무슨 소리야?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="340" TimeIn="00:35:47:010" TimeOut="00:35:50:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">이번건 또 달라</Text>
+		<Text VAlign="bottom" VPosition="10.00">안에 들어와서 낚아채갔어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="341" TimeIn="00:35:52:042" TimeOut="00:35:53:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그럼 빨리 가요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="342" TimeIn="00:35:53:229" TimeOut="00:35:58:094" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">잠깐만요</Text>
+		<Text VAlign="bottom" VPosition="10.00">아까 사진들 못 봤어요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="343" TimeIn="00:35:58:094" TimeOut="00:36:00:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">지금 밖이 다 그래요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="344" TimeIn="00:36:00:031" TimeOut="00:36:03:177" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 쫙 깔렸다구요</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 다 깔린건 아냐</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="345" TimeIn="00:36:04:156" TimeOut="00:36:06:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">물위엔 없어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="346" TimeIn="00:36:06:000" TimeOut="00:36:07:052" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">맞아요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="347" TimeIn="00:36:07:052" TimeOut="00:36:10:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">그래도 금방</Text>
+		<Text VAlign="bottom" VPosition="10.00">발각될거야</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="348" TimeIn="00:36:11:031" TimeOut="00:36:12:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">2분이면 가요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="349" TimeIn="00:36:12:240" TimeOut="00:36:15:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">그들이 어떻게 나올지</Text>
+		<Text VAlign="bottom" VPosition="10.00">모르잖아요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="350" TimeIn="00:36:15:156" TimeOut="00:36:16:135" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">일레인</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="351" TimeIn="00:36:16:135" TimeOut="00:36:18:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">무서운거 알아요</Text>
+		<Text VAlign="bottom" VPosition="10.00">우리 다 그러니까</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="352" TimeIn="00:36:18:219" TimeOut="00:36:21:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">그치만 넋놓고 앉아서</Text>
+		<Text VAlign="bottom" VPosition="10.00">빌수만은 없죠</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="353" TimeIn="00:36:21:125" TimeOut="00:36:24:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 누가 그러재요</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 진정부터 하자</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="354" TimeIn="00:36:24:031" TimeOut="00:36:28:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">진정하게 됐냐?!</Text>
+		<Text VAlign="bottom" VPosition="10.00">안에 들어왔다니까!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="355" TimeIn="00:36:29:125" TimeOut="00:36:32:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 테리...</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 타이머 맞춰놨어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="356" TimeIn="00:36:33:167" TimeOut="00:36:35:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">세상에...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="357" TimeIn="00:36:41:188" TimeOut="00:36:43:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">대체 저게...!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="358" TimeIn="00:36:46:083" TimeOut="00:36:48:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 빨리 가!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 어서!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="359" TimeIn="00:37:00:135" TimeOut="00:37:02:177" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">어떡해 어떡해...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="360" TimeIn="00:37:59:229" TimeOut="00:38:02:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">더러운 인간!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="361" TimeIn="00:38:02:010" TimeOut="00:38:03:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">또 왜 그러는데?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="362" TimeIn="00:38:10:229" TimeOut="00:38:14:177" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 나중에 얘기하자</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 그래, 그냥은 못 넘어가</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="363" TimeIn="00:38:23:229" TimeOut="00:38:25:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">이래도 안 갈래요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="364" TimeIn="00:38:25:229" TimeOut="00:38:28:062" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">이게 좋을리가</Text>
+		<Text VAlign="bottom" VPosition="10.00">있겠어요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="365" TimeIn="00:38:28:062" TimeOut="00:38:31:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">하지만 우릴 보지도</Text>
+		<Text VAlign="bottom" VPosition="10.00">듣지도 못했으니</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="366" TimeIn="00:38:31:000" TimeOut="00:38:34:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 조용히만 하면...</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 얼마나요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="367" TimeIn="00:38:34:010" TimeOut="00:38:37:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">사람들을 아주 쉽게</Text>
+		<Text VAlign="bottom" VPosition="10.00">끌고 가잖아요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="368" TimeIn="00:38:37:073" TimeOut="00:38:41:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">무조건 이 도시를</Text>
+		<Text VAlign="bottom" VPosition="10.00">벗어나야 해요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="369" TimeIn="00:38:41:000" TimeOut="00:38:42:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">맞아</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="370" TimeIn="00:38:42:229" TimeOut="00:38:45:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 제로드</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 보트까지만 가면...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="371" TimeIn="00:38:45:104" TimeOut="00:38:47:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 그게 말처럼...</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 어쨌든...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="372" TimeIn="00:38:51:240" TimeOut="00:38:53:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">하는 데까진 해보자</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="373" TimeIn="00:38:54:073" TimeOut="00:38:55:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">짐들 챙겨</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="374" TimeIn="00:38:56:073" TimeOut="00:39:00:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">먹을 거하고 물 싸</Text>
+		<Text VAlign="bottom" VPosition="10.00">서두르자</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="375" TimeIn="00:39:13:042" TimeOut="00:39:14:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">가자, 어서</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="376" TimeIn="00:39:14:073" TimeOut="00:39:15:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">빨리!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="377" TimeIn="00:39:39:104" TimeOut="00:39:40:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">빨리 와</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="378" TimeIn="00:39:40:229" TimeOut="00:39:44:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">내가 먼저 가서</Text>
+		<Text VAlign="bottom" VPosition="10.00">보트 시동 걸게</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="379" TimeIn="00:39:44:042" TimeOut="00:39:45:021" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">이리 줘</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="380" TimeIn="00:39:46:042" TimeOut="00:39:48:094" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 저기요!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 어서 가요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="381" TimeIn="00:39:48:094" TimeOut="00:39:51:094" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 왜 그래?</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 운전하게, 나 길 알아</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="382" TimeIn="00:39:51:094" TimeOut="00:39:52:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">세컨드나 챙기셔</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="383" TimeIn="00:39:52:229" TimeOut="00:39:54:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">캔디스!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="384" TimeIn="00:39:54:229" TimeOut="00:39:56:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">캔디스!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="385" TimeIn="00:39:58:115" TimeOut="00:40:00:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">안 타고 뭐해!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="386" TimeIn="00:40:07:167" TimeOut="00:40:09:062" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">사장님, 미안해요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="387" TimeIn="00:40:47:229" TimeOut="00:40:50:083" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 서둘러!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 내가 지금 놀아?!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="388" TimeIn="00:40:55:167" TimeOut="00:40:56:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 천천히 가요</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 안돼요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="389" TimeIn="00:40:56:219" TimeOut="00:40:58:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">서봐요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="390" TimeIn="00:40:59:240" TimeOut="00:41:00:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">도와드려요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="391" TimeIn="00:41:00:229" TimeOut="00:41:04:177" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 아니, 괜찮으니 가시오</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 도움이 될지도 모르잖아</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="392" TimeIn="00:41:04:177" TimeOut="00:41:06:062" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">괜찮다잖소</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="393" TimeIn="00:41:27:104" TimeOut="00:41:28:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">테리!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="394" TimeIn="00:41:37:062" TimeOut="00:41:38:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">테리!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="395" TimeIn="00:41:38:104" TimeOut="00:41:39:083" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">세상에!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="396" TimeIn="00:41:39:083" TimeOut="00:41:41:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 이거나 먹어라!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 테리, 일어나!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="397" TimeIn="00:41:41:208" TimeOut="00:41:44:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 어서!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 차에 타!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="398" TimeIn="00:41:47:219" TimeOut="00:41:50:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 테... 테리!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 맙소사, 테리!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="399" TimeIn="00:41:54:010" TimeOut="00:41:55:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">데려와요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="400" TimeIn="00:42:00:240" TimeOut="00:42:01:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">꽉 잡아!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="401" TimeIn="00:42:07:229" TimeOut="00:42:11:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">제로드,</Text>
+		<Text VAlign="bottom" VPosition="10.00">빨리 와서 타!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="402" TimeIn="00:42:12:021" TimeOut="00:42:13:062" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">어서 밟아요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="403" TimeIn="00:42:13:062" TimeOut="00:42:14:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">후진해요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="404" TimeIn="00:42:20:146" TimeOut="00:42:22:052" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">뭐하는 거야?!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="405" TimeIn="00:42:22:052" TimeOut="00:42:23:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 아무래도...</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 차에 타!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="406" TimeIn="00:42:30:083" TimeOut="00:42:32:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">어서요, 빨리!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="407" TimeIn="00:42:39:198" TimeOut="00:42:41:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 열려라!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 어서...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="408" TimeIn="00:42:41:000" TimeOut="00:42:44:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">젠장, 열리라구!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="409" TimeIn="00:42:44:000" TimeOut="00:42:45:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 맙소사!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 제발!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="410" TimeIn="00:42:49:229" TimeOut="00:42:52:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">빨리 좀 열리라니까!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="411" TimeIn="00:42:55:135" TimeOut="00:42:57:135" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">후진해요, 어서!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="412" TimeIn="00:42:57:135" TimeOut="00:42:58:146" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">빨리!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="413" TimeIn="00:43:21:104" TimeOut="00:43:22:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">안돼!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="414" TimeIn="00:43:22:167" TimeOut="00:43:24:052" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">난 몰라!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="415" TimeIn="00:43:24:052" TimeOut="00:43:25:146" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">사람 살려!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="416" TimeIn="00:43:26:021" TimeOut="00:43:29:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">살려줘요! 안돼!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="417" TimeIn="00:43:29:073" TimeOut="00:43:32:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 사람 살려!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 이쪽이에요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="418" TimeIn="00:43:35:094" TimeOut="00:43:37:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">캔디스, 열쇠는요?</Text>
+		<Text VAlign="bottom" VPosition="10.00">열쇠로 열어요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="419" TimeIn="00:43:37:167" TimeOut="00:43:38:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">어서!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="420" TimeIn="00:43:41:010" TimeOut="00:43:42:021" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">세상에!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="421" TimeIn="00:44:01:104" TimeOut="00:44:02:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">맙소사...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="422" TimeIn="00:44:12:167" TimeOut="00:44:13:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">괜찮아요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="423" TimeIn="00:44:13:240" TimeOut="00:44:14:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">괜찮아</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="424" TimeIn="00:44:16:219" TimeOut="00:44:17:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">세상에...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="425" TimeIn="00:44:19:104" TimeOut="00:44:20:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">맙소사!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="426" TimeIn="00:44:20:125" TimeOut="00:44:22:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 가시면 안됩니다</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 놔요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="427" TimeIn="00:44:24:135" TimeOut="00:44:26:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">살아있다구요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="428" TimeIn="00:44:26:125" TimeOut="00:44:27:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">콜린!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="429" TimeIn="00:44:29:240" TimeOut="00:44:31:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">도와줘요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="430" TimeIn="00:44:34:188" TimeOut="00:44:36:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">당겨요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="431" TimeIn="00:44:49:208" TimeOut="00:44:50:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">어서 가세요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="432" TimeIn="00:44:59:021" TimeOut="00:45:01:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">가세요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="433" TimeIn="00:45:01:010" TimeOut="00:45:01:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">가요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="434" TimeIn="00:45:18:229" TimeOut="00:45:20:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">뒤로 나가세요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="435" TimeIn="00:45:30:146" TimeOut="00:45:31:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">도망쳐요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="436" TimeIn="00:46:03:052" TimeOut="00:46:04:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">빨리 뛰어요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="437" TimeIn="00:46:12:208" TimeOut="00:46:13:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">가요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="438" TimeIn="00:46:27:094" TimeOut="00:46:28:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">맙소사!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="439" TimeIn="00:46:28:219" TimeOut="00:46:30:062" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">계속 뛰어요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="440" TimeIn="00:46:32:115" TimeOut="00:46:33:177" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">문 열어요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="441" TimeIn="00:46:41:167" TimeOut="00:46:42:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그냥 깨요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="442" TimeIn="00:46:42:104" TimeOut="00:46:43:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 물러서요!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 어서요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="443" TimeIn="00:46:47:219" TimeOut="00:46:49:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 가요!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 서둘러요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="444" TimeIn="00:46:55:135" TimeOut="00:46:56:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">어디로 가요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="445" TimeIn="00:46:57:198" TimeOut="00:47:01:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 꼭대기가 제일 낫겠죠</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 거기서 온걸요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="446" TimeIn="00:47:03:125" TimeOut="00:47:05:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">그럼 저들과</Text>
+		<Text VAlign="bottom" VPosition="10.00">있든가요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="447" TimeIn="00:47:05:240" TimeOut="00:47:07:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">가요, 갑시다</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="448" TimeIn="00:47:12:083" TimeOut="00:47:14:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">빨리 들어가요, 빨리!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="449" TimeIn="00:48:04:156" TimeOut="00:48:07:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">놓치지 말았어야</Text>
+		<Text VAlign="bottom" VPosition="10.00">했는데</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="450" TimeIn="00:48:14:240" TimeOut="00:48:15:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">이봐요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="451" TimeIn="00:48:16:198" TimeOut="00:48:18:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">이거 좀 거들어줘요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="452" TimeIn="00:48:36:188" TimeOut="00:48:38:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">없는거 보단 낫겠죠?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="453" TimeIn="00:48:40:010" TimeOut="00:48:41:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그렇겠죠 뭐</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="454" TimeIn="00:48:42:042" TimeOut="00:48:44:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 왜요?</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 뭐하는 겁니까?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="455" TimeIn="00:48:44:188" TimeOut="00:48:47:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">좋든 싫든</Text>
+		<Text VAlign="bottom" VPosition="10.00">벌어진 일이에요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="456" TimeIn="00:48:50:042" TimeOut="00:48:52:021" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">마음 단단히 먹어요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="457" TimeIn="00:49:00:229" TimeOut="00:49:02:177" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">다들 무사합니까?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="458" TimeIn="00:49:05:031" TimeOut="00:49:06:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">다쳤어요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="459" TimeIn="00:49:07:135" TimeOut="00:49:08:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">아뇨</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="460" TimeIn="00:49:09:031" TimeOut="00:49:10:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">전 괜찮아요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="461" TimeIn="00:49:20:021" TimeOut="00:49:22:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 이제 어쩌죠?</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 여기 있어야죠</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="462" TimeIn="00:49:22:156" TimeOut="00:49:26:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">지켜보면서</Text>
+		<Text VAlign="bottom" VPosition="10.00">누가 와주길 빌어야죠</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="463" TimeIn="00:49:26:010" TimeOut="00:49:27:052" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">맞아요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="464" TimeIn="00:49:27:219" TimeOut="00:49:29:177" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">누군가 올거예요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="465" TimeIn="00:49:30:073" TimeOut="00:49:32:094" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">이대로 끝나진</Text>
+		<Text VAlign="bottom" VPosition="10.00">않겠죠</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="466" TimeIn="00:49:33:177" TimeOut="00:49:34:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그쵸?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="467" TimeIn="00:49:43:062" TimeOut="00:49:45:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 일레인</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 다같이 있는게 좋아요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="468" TimeIn="00:49:45:188" TimeOut="00:49:47:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">안돼요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="469" TimeIn="00:49:47:000" TimeOut="00:49:48:146" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">담배 때문에</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="470" TimeIn="00:49:49:073" TimeOut="00:49:52:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">이 상황에 내가</Text>
+		<Text VAlign="bottom" VPosition="10.00">안 피우는게 이상하죠</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="471" TimeIn="00:49:52:188" TimeOut="00:49:53:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">캔디스...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="472" TimeIn="00:49:57:010" TimeOut="00:49:59:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">나 임신했어요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="473" TimeIn="00:50:00:083" TimeOut="00:50:02:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">지금 안 그래도</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="474" TimeIn="00:50:03:135" TimeOut="00:50:05:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">스트레스 때문에...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="475" TimeIn="00:50:10:229" TimeOut="00:50:12:094" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">괜찮아</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="476" TimeIn="00:50:17:010" TimeOut="00:50:19:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">엄마한테도</Text>
+		<Text VAlign="bottom" VPosition="10.00">말 못했어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="477" TimeIn="00:50:31:219" TimeOut="00:50:36:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">아가씨들은 좀 재우고</Text>
+		<Text VAlign="bottom" VPosition="10.00">우린 불침번 섭시다</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="478" TimeIn="00:50:37:208" TimeOut="00:50:39:062" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">둘 다요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="479" TimeIn="00:50:40:000" TimeOut="00:50:43:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">그래야 빛을 봐도</Text>
+		<Text VAlign="bottom" VPosition="10.00">서로 지켜주죠</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="480" TimeIn="00:51:06:115" TimeOut="00:51:08:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">LA는 딱 질색이야</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="481" TimeIn="00:51:37:198" TimeOut="00:51:40:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">밤새 한놈도</Text>
+		<Text VAlign="bottom" VPosition="10.00">못 봤어요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="482" TimeIn="00:51:43:083" TimeOut="00:51:45:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">힘든건</Text>
+		<Text VAlign="bottom" VPosition="10.00">지나갔나봐요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="483" TimeIn="00:51:46:125" TimeOut="00:51:47:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">또 모르죠</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="484" TimeIn="00:51:50:229" TimeOut="00:51:53:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그것들이 뭘까요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="485" TimeIn="00:51:53:240" TimeOut="00:51:55:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">모르죠</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="486" TimeIn="00:51:56:083" TimeOut="00:51:58:094" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그게 중요해요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="487" TimeIn="00:52:03:146" TimeOut="00:52:05:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">실제 같지도 않아요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="488" TimeIn="00:52:08:240" TimeOut="00:52:10:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그래도 실제입니다</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="489" TimeIn="00:52:11:208" TimeOut="00:52:13:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그만 정신차려요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="490" TimeIn="00:52:15:240" TimeOut="00:52:17:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">무슨 뜻이죠?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="491" TimeIn="00:52:17:229" TimeOut="00:52:20:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">사람들을 다</Text>
+		<Text VAlign="bottom" VPosition="10.00">쓸어갔어요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="492" TimeIn="00:52:20:208" TimeOut="00:52:22:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">우린 살아남아야죠</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="493" TimeIn="00:52:25:010" TimeOut="00:52:27:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">버텨낼 사람이</Text>
+		<Text VAlign="bottom" VPosition="10.00">몇 안될겁니다</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="494" TimeIn="00:52:48:229" TimeOut="00:52:49:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">어디 봐요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="495" TimeIn="00:52:53:229" TimeOut="00:52:56:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">누가 맞서</Text>
+		<Text VAlign="bottom" VPosition="10.00">싸우는군요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="496" TimeIn="00:52:58:240" TimeOut="00:52:59:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">뭐하게?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="497" TimeIn="00:52:59:198" TimeOut="00:53:01:094" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">밖에 뭐가 있나 보게</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="498" TimeIn="00:53:04:188" TimeOut="00:53:05:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">맙소사...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="499" TimeIn="00:53:14:229" TimeOut="00:53:17:094" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">그거 꺼요!</Text>
+		<Text VAlign="bottom" VPosition="10.00">너무 밝아요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="500" TimeIn="00:53:17:094" TimeOut="00:53:19:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 아뇨</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 이러면 위험해요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="501" TimeIn="00:53:22:010" TimeOut="00:53:23:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">세상에...</Text>
+	</Subtitle>
+
+
+	<Font Size="45" Italic="yes" Color="FFD7DDFF" Effect="shadow" EffectColor="FF000000">
+		<Subtitle SpotNumber="502" TimeIn="00:54:01:190" TimeOut="00:54:04:156" FadeUpTime="100" FadeDownTime="100">
+		<Text VAlign="bottom" VPosition="17.00">둘째날</Text>
+		</Subtitle>
+	</Font>
+
+
+	<Subtitle SpotNumber="503" TimeIn="00:54:19:000" TimeOut="00:54:20:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">눈은 좀 붙인거야?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="504" TimeIn="00:54:26:073" TimeOut="00:54:28:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">자꾸 나빠져?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="505" TimeIn="00:54:29:042" TimeOut="00:54:29:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">뭐가?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="506" TimeIn="00:54:29:240" TimeOut="00:54:31:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그 피부 자국</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="507" TimeIn="00:54:33:208" TimeOut="00:54:37:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">그 불빛 보곤</Text>
+		<Text VAlign="bottom" VPosition="10.00">십분도 못 버티겠더라</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="508" TimeIn="00:54:37:219" TimeOut="00:54:40:177" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">그게 무슨 작용을</Text>
+		<Text VAlign="bottom" VPosition="10.00">할지 모르지</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="509" TimeIn="00:54:44:208" TimeOut="00:54:46:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">우리 몸에</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="510" TimeIn="00:54:56:083" TimeOut="00:54:59:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그거 본 순간 기억해?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="511" TimeIn="00:54:59:000" TimeOut="00:55:01:052" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">완전 점령당했지</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="512" TimeIn="00:55:01:208" TimeOut="00:55:04:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">그 순간에도</Text>
+		<Text VAlign="bottom" VPosition="10.00">느껴진건...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="513" TimeIn="00:55:09:115" TimeOut="00:55:11:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">강력하단거야</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="514" TimeIn="00:55:17:115" TimeOut="00:55:19:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">여전히 느껴져</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="515" TimeIn="00:56:34:208" TimeOut="00:56:38:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">좀 앉지 그래요</Text>
+		<Text VAlign="bottom" VPosition="10.00">진정 좀 하고</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="516" TimeIn="00:56:49:167" TimeOut="00:56:53:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">고집은,</Text>
+		<Text VAlign="bottom" VPosition="10.00">누가 잡아먹나</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="517" TimeIn="00:56:53:000" TimeOut="00:56:56:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">계획이 뭐요?</Text>
+		<Text VAlign="bottom" VPosition="10.00">생각이 없진 않을테고</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="518" TimeIn="00:56:59:000" TimeOut="00:57:00:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">할말 없습니까?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="519" TimeIn="00:57:01:167" TimeOut="00:57:03:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">코앞이</Text>
+		<Text VAlign="bottom" VPosition="10.00">선착장이에요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="520" TimeIn="00:57:03:115" TimeOut="00:57:04:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그렇죠</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="521" TimeIn="00:57:04:229" TimeOut="00:57:08:177" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 배가 수백 척이라구요</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 다 해본거잖아요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="522" TimeIn="00:57:08:177" TimeOut="00:57:11:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">그러다 곤혹 좀</Text>
+		<Text VAlign="bottom" VPosition="10.00">치렀죠</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="523" TimeIn="00:57:17:000" TimeOut="00:57:19:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">이번엔 조용히 가요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="524" TimeIn="00:57:19:000" TimeOut="00:57:22:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">가서 키 꽂아둔</Text>
+		<Text VAlign="bottom" VPosition="10.00">배를 찾자?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="525" TimeIn="00:57:22:000" TimeOut="00:57:23:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">별수 없잖아요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="526" TimeIn="00:57:23:125" TimeOut="00:57:24:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">대단한 계획이로군</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="527" TimeIn="00:57:25:177" TimeOut="00:57:29:052" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">그 일을 겪고도</Text>
+		<Text VAlign="bottom" VPosition="10.00">그런 말이 나와?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="528" TimeIn="00:57:29:052" TimeOut="00:57:31:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">내 잘못처럼 말하네</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="529" TimeIn="00:57:31:229" TimeOut="00:57:35:052" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">사정하다시피</Text>
+		<Text VAlign="bottom" VPosition="10.00">했는데</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="530" TimeIn="00:57:35:052" TimeOut="00:57:37:135" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">막무가내였잖아</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="531" TimeIn="00:57:37:135" TimeOut="00:57:40:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">테리가 내 말을</Text>
+		<Text VAlign="bottom" VPosition="10.00">들었을까?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="532" TimeIn="00:57:42:240" TimeOut="00:57:44:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">좋아요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="533" TimeIn="00:57:46:135" TimeOut="00:57:48:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">건물을 나갔다고</Text>
+		<Text VAlign="bottom" VPosition="10.00">칩시다</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="534" TimeIn="00:57:49:188" TimeOut="00:57:52:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">선착장까지</Text>
+		<Text VAlign="bottom" VPosition="10.00">내려가서</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="535" TimeIn="00:57:52:042" TimeOut="00:57:55:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">배를 찾았다고</Text>
+		<Text VAlign="bottom" VPosition="10.00">치면요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="536" TimeIn="00:57:55:156" TimeOut="00:57:57:052" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">무조건 타고 가야죠</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="537" TimeIn="00:57:57:052" TimeOut="00:58:00:052" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">어디로요?</Text>
+		<Text VAlign="bottom" VPosition="10.00">섬으로? 바다로?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="538" TimeIn="00:58:00:052" TimeOut="00:58:03:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 어디든 여기보단 낫겠죠!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 어떻게 압니까?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="539" TimeIn="00:58:03:198" TimeOut="00:58:06:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">여기서 버텼죠</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="540" TimeIn="00:58:06:000" TimeOut="00:58:07:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">최소한 살아있고</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="541" TimeIn="00:58:09:135" TimeOut="00:58:10:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">뭐죠?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="542" TimeIn="00:58:13:156" TimeOut="00:58:14:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">뭐예요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="543" TimeIn="00:58:21:240" TimeOut="00:58:23:062" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">할렐루야</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="544" TimeIn="00:59:37:198" TimeOut="00:59:40:021" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제발 제발 제발!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="545" TimeIn="00:59:57:240" TimeOut="00:59:59:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">다들 숙여요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="546" TimeIn="01:00:25:167" TimeOut="01:00:27:146" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 일레인?</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 응</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="547" TimeIn="01:01:29:125" TimeOut="01:01:30:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">됐어요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="548" TimeIn="01:01:36:229" TimeOut="01:01:39:021" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">믿기질 않아요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="549" TimeIn="01:01:39:021" TimeOut="01:01:42:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 끝난거예요?</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 됐어요, 다 됐어요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="550" TimeIn="01:01:42:115" TimeOut="01:01:43:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">좀 봐도?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="551" TimeIn="01:01:44:146" TimeOut="01:01:46:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">물론이죠</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="552" TimeIn="01:01:54:229" TimeOut="01:01:57:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">비행기가 더 올까요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="553" TimeIn="01:01:57:219" TimeOut="01:02:01:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">네, 알아서</Text>
+		<Text VAlign="bottom" VPosition="10.00">처리하겠죠</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="554" TimeIn="01:02:01:198" TimeOut="01:02:03:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">곧 구조대를</Text>
+		<Text VAlign="bottom" VPosition="10.00">보낼겁니다</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="555" TimeIn="01:02:15:042" TimeOut="01:02:16:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">왜?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="556" TimeIn="01:02:18:000" TimeOut="01:02:19:052" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">왜 그래?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="557" TimeIn="01:02:19:052" TimeOut="01:02:20:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">죽은게 아냐</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="558" TimeIn="01:02:21:229" TimeOut="01:02:25:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">그냥 아주 많이...</Text>
+		<Text VAlign="bottom" VPosition="10.00">화가 난거죠</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="559" TimeIn="01:02:51:031" TimeOut="01:02:53:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">뭔가 벌어지고</Text>
+		<Text VAlign="bottom" VPosition="10.00">있어요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="560" TimeIn="01:03:06:156" TimeOut="01:03:08:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">유리창을</Text>
+		<Text VAlign="bottom" VPosition="10.00">덮어야 해요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="561" TimeIn="01:03:10:000" TimeOut="01:03:11:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">이거 좀 도와줘요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="562" TimeIn="01:03:12:083" TimeOut="01:03:14:052" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">이리 돌아와요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="563" TimeIn="01:03:14:052" TimeOut="01:03:16:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">뭐라도 찾아볼게요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="564" TimeIn="01:03:22:000" TimeOut="01:03:22:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">여기요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="565" TimeIn="01:03:30:094" TimeOut="01:03:32:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제로드, 뭐하는거야?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="566" TimeIn="01:03:33:125" TimeOut="01:03:35:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">이 길밖엔 없어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="567" TimeIn="01:03:42:198" TimeOut="01:03:44:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">다 뭐하잔 겁니까?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="568" TimeIn="01:03:46:010" TimeOut="01:03:47:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">곧 들이닥칠겁니다</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="569" TimeIn="01:03:49:021" TimeOut="01:03:52:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">댁 피부 상태</Text>
+		<Text VAlign="bottom" VPosition="10.00">모를거 같소?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="570" TimeIn="01:03:52:229" TimeOut="01:03:56:083" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">어떻게든 여기서</Text>
+		<Text VAlign="bottom" VPosition="10.00">버텨야 합니다!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="571" TimeIn="01:03:56:219" TimeOut="01:03:58:135" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">내 생각도 그래</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="572" TimeIn="01:03:59:094" TimeOut="01:04:01:135" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">저자 말만 듣자고?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="573" TimeIn="01:04:01:135" TimeOut="01:04:03:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">물도 없어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="574" TimeIn="01:04:03:104" TimeOut="01:04:05:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 전기도 끊겼고</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 밖에 상황 봤잖아!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="575" TimeIn="01:04:05:219" TimeOut="01:04:10:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">그래도 여기 처박혀 죽느니</Text>
+		<Text VAlign="bottom" VPosition="10.00">도망이라도 쳐봐야지!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="576" TimeIn="01:04:10:073" TimeOut="01:04:14:146" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">저것들하며 그 빛하며</Text>
+		<Text VAlign="bottom" VPosition="10.00">여깄으면 죽어!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="577" TimeIn="01:04:25:167" TimeOut="01:04:27:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 착륙 완료!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 움직여!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="578" TimeIn="01:04:27:042" TimeOut="01:04:29:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00"> - 어서!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 각자 위치 사수해!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="579" TimeIn="01:04:29:198" TimeOut="01:04:30:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">저 봐요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="580" TimeIn="01:04:31:156" TimeOut="01:04:33:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 놔요!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 뭐하는 겁니까?!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="581" TimeIn="01:04:33:104" TimeOut="01:04:36:021" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 여깄는걸 알려야죠!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 그러다 발각돼요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="582" TimeIn="01:04:36:021" TimeOut="01:04:39:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">기다리던 구조대가</Text>
+		<Text VAlign="bottom" VPosition="10.00">왔잖아요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="583" TimeIn="01:04:40:042" TimeOut="01:04:42:094" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 저게 구조대로 보여요?</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 아니면...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="584" TimeIn="01:04:42:094" TimeOut="01:04:43:094" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">모르겠어?!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="585" TimeIn="01:04:43:094" TimeOut="01:04:44:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">이건 전쟁이야!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="586" TimeIn="01:04:47:010" TimeOut="01:04:48:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">어디 가는거죠?</Text>
+	</Subtitle>
+
+
+	<Font Italic="yes">
+	<Subtitle SpotNumber="587" TimeIn="01:04:49:010" TimeOut="01:04:50:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">헬로6, 출발!</Text>
+	</Subtitle>
+	</Font>
+
+
+	<Subtitle SpotNumber="588" TimeIn="01:04:54:010" TimeOut="01:04:59:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">군인들 실으러 돌아올때</Text>
+		<Text VAlign="bottom" VPosition="10.00">구조요청하자, 어서</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="589" TimeIn="01:05:04:198" TimeOut="01:05:07:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 옥상까지만 가면 돼</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 안 돌아오면?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="590" TimeIn="01:05:07:167" TimeOut="01:05:08:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">일레인...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="591" TimeIn="01:05:08:104" TimeOut="01:05:10:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">비행기도 안 되는데</Text>
+		<Text VAlign="bottom" VPosition="10.00">헬기로 되겠어?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="592" TimeIn="01:05:10:219" TimeOut="01:05:13:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 기회를 놓칠순 없어!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 기회?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="593" TimeIn="01:05:13:167" TimeOut="01:05:16:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">다 집어삼키는 자들한테</Text>
+		<Text VAlign="bottom" VPosition="10.00">여깄다고 광고하는게?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="594" TimeIn="01:05:16:219" TimeOut="01:05:19:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">당신은 빠져요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="595" TimeIn="01:05:19:010" TimeOut="01:05:20:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그래도...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="596" TimeIn="01:05:20:198" TimeOut="01:05:22:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">맙소사!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="597" TimeIn="01:05:23:062" TimeOut="01:05:24:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">서있기만 할거요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="598" TimeIn="01:05:24:229" TimeOut="01:05:26:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">블라인드가</Text>
+		<Text VAlign="bottom" VPosition="10.00">다 떨어지면요?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="599" TimeIn="01:05:26:188" TimeOut="01:05:29:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">침대시트론</Text>
+		<Text VAlign="bottom" VPosition="10.00">어림 없는데!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="600" TimeIn="01:05:30:062" TimeOut="01:05:31:083" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">가자</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="601" TimeIn="01:05:31:083" TimeOut="01:05:34:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 나간다고 될거 같아?</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 일단 가자!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="602" TimeIn="01:05:34:156" TimeOut="01:05:37:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">댁만 믿다간</Text>
+		<Text VAlign="bottom" VPosition="10.00">큰일 나겠군!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="603" TimeIn="01:05:37:010" TimeOut="01:05:39:094" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">누구 편인지</Text>
+		<Text VAlign="bottom" VPosition="10.00">알게 뭐야?!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="604" TimeIn="01:05:39:094" TimeOut="01:05:41:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">경고하겠소</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="605" TimeIn="01:05:41:031" TimeOut="01:05:44:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">그만해요, 둘다!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="606" TimeIn="01:05:44:031" TimeOut="01:05:45:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">저 얼굴을 봐요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="607" TimeIn="01:05:46:156" TimeOut="01:05:48:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">정상이 아녜요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="608" TimeIn="01:05:50:010" TimeOut="01:05:51:146" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">해치고 싶진 않소</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="609" TimeIn="01:05:51:146" TimeOut="01:05:52:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">별 걱정 다하네</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="610" TimeIn="01:06:03:073" TimeOut="01:06:06:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">내 가족 두곤</Text>
+		<Text VAlign="bottom" VPosition="10.00">안 갈거요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="611" TimeIn="01:06:08:062" TimeOut="01:06:12:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">우릴 막겠단 생각은</Text>
+		<Text VAlign="bottom" VPosition="10.00">일찌감치 접는게 좋을거요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="612" TimeIn="01:06:14:219" TimeOut="01:06:16:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제발 날 믿어줘</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="613" TimeIn="01:06:26:240" TimeOut="01:06:28:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">나야</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="614" TimeIn="01:06:37:146" TimeOut="01:06:40:094" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">아직은... 나야</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="615" TimeIn="01:06:48:083" TimeOut="01:06:49:177" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">알아</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="616" TimeIn="01:06:54:208" TimeOut="01:06:56:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">가야 돼</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="617" TimeIn="01:06:58:052" TimeOut="01:06:59:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">나가야 돼</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="618" TimeIn="01:07:01:135" TimeOut="01:07:03:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">저러다 죽이겠어요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="619" TimeIn="01:07:04:188" TimeOut="01:07:05:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">이리 와요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="620" TimeIn="01:07:08:198" TimeOut="01:07:10:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">주세요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="621" TimeIn="01:07:25:083" TimeOut="01:07:26:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">가자</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="622" TimeIn="01:07:37:156" TimeOut="01:07:38:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">어서 가자</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="623" TimeIn="01:07:56:240" TimeOut="01:07:58:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">누구 보여?</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="624" TimeIn="01:08:03:000" TimeOut="01:08:04:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">저기 있어</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="625" TimeIn="01:08:08:240" TimeOut="01:08:10:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 저기요</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 저기요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="626" TimeIn="01:08:10:010" TimeOut="01:08:11:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 사람 살려요!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 살려줘요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="627" TimeIn="01:08:11:104" TimeOut="01:08:12:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">꼼짝 마!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="628" TimeIn="01:08:12:156" TimeOut="01:08:14:135" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 쏘지 말아요!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 안돼요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="629" TimeIn="01:08:15:000" TimeOut="01:08:17:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">도와주세요, 제발!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="630" TimeIn="01:08:22:052" TimeOut="01:08:25:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">계단쪽으로 가시오</Text>
+		<Text VAlign="bottom" VPosition="10.00">어서 가요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="631" TimeIn="01:09:15:188" TimeOut="01:09:16:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">안돼요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="632" TimeIn="01:09:19:073" TimeOut="01:09:20:115" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">안돼!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="633" TimeIn="01:09:29:021" TimeOut="01:09:31:135" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">다들 괜찮나?</Text>
+		<Text VAlign="bottom" VPosition="10.00">발사 준비해!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="634" TimeIn="01:09:31:135" TimeOut="01:09:33:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">알겠습니다!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="635" TimeIn="01:09:33:010" TimeOut="01:09:35:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">헬로6가 돌아온다!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="636" TimeIn="01:09:36:125" TimeOut="01:09:37:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">확인했습니다!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="637" TimeIn="01:09:38:198" TimeOut="01:09:41:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">조심하시오</Text>
+		<Text VAlign="bottom" VPosition="10.00">헬기가 옵니다!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="638" TimeIn="01:09:44:240" TimeOut="01:09:47:146" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 이봐요!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 여기요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="639" TimeIn="01:09:48:188" TimeOut="01:09:51:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">즉시 구조 바란다</Text>
+	</Subtitle>
+
+
+	<Font Italic="yes">
+	<Subtitle SpotNumber="640" TimeIn="01:09:51:188" TimeOut="01:09:54:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">알았다</Text>
+		<Text VAlign="bottom" VPosition="10.00">지금 그쪽으로 가고 있다</Text>
+	</Subtitle>
+
+	<Subtitle SpotNumber="641" TimeIn="01:09:56:042" TimeOut="01:09:58:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 메이데이, 메이데이!</Text>
+	</Subtitle>
+	</Font>
+
+
+	<Subtitle SpotNumber="641-1" TimeIn="01:09:56:042" TimeOut="01:09:58:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="10.00">- 안돼!</Text>
+	</Subtitle>
+
+
+	<Font Italic="yes">
+	<Subtitle SpotNumber="642" TimeIn="01:09:58:229" TimeOut="01:10:00:177" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">뭔가에 걸렸다!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="643" TimeIn="01:10:03:156" TimeOut="01:10:07:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">올라가야겠다!</Text>
+		<Text VAlign="bottom" VPosition="10.00">도와달라!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="644" TimeIn="01:10:11:177" TimeOut="01:10:13:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">메이데이, 메이데이!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="645" TimeIn="01:10:18:135" TimeOut="01:10:19:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">추락한다!</Text>
+	</Subtitle>
+	</Font>
+
+
+	<Subtitle SpotNumber="646" TimeIn="01:10:19:240" TimeOut="01:10:21:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">안돼!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="647" TimeIn="01:11:10:000" TimeOut="01:11:11:062" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">세상에...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="648" TimeIn="01:11:21:240" TimeOut="01:11:22:208" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">이리 와</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="649" TimeIn="01:11:27:073" TimeOut="01:11:29:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">맙소사!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="650" TimeIn="01:11:31:156" TimeOut="01:11:33:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">이거 좀 떼어줘!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="651" TimeIn="01:11:35:198" TimeOut="01:11:37:000" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">조금만 참아!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="652" TimeIn="01:11:38:000" TimeOut="01:11:39:042" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">살려줘!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="653" TimeIn="01:11:41:198" TimeOut="01:11:43:240" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">가, 어서!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="654" TimeIn="01:12:06:021" TimeOut="01:12:07:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">저걸 타자</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="655" TimeIn="01:12:07:229" TimeOut="01:12:10:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">저거라도</Text>
+		<Text VAlign="bottom" VPosition="10.00">타고 가야 돼!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="656" TimeIn="01:12:42:229" TimeOut="01:12:44:073" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제발...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="657" TimeIn="01:13:04:073" TimeOut="01:13:05:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제로드!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="658" TimeIn="01:13:13:010" TimeOut="01:13:14:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">- 제로드!</Text>
+		<Text VAlign="bottom" VPosition="10.00">- 도망쳐!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="659" TimeIn="01:14:33:042" TimeOut="01:14:34:083" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">안돼!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="660" TimeIn="01:14:46:146" TimeOut="01:14:48:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">제거한다!</Text>
+		<Text VAlign="bottom" VPosition="10.00">재장전하라!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="661" TimeIn="01:15:18:062" TimeOut="01:15:21:031" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">이 징글맞은</Text>
+		<Text VAlign="bottom" VPosition="10.00">괴물 새끼야!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="662" TimeIn="01:15:29:052" TimeOut="01:15:30:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">사람 살려!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="663" TimeIn="01:15:31:135" TimeOut="01:15:34:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">사람 살려</Text>
+		<Text VAlign="bottom" VPosition="10.00">살려줘요!</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="664" TimeIn="01:15:36:229" TimeOut="01:15:38:062" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">살려줘요</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="665" TimeIn="01:16:33:208" TimeOut="01:16:37:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제로드... 날 봐</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="666" TimeIn="01:16:37:219" TimeOut="01:16:39:188" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">날 좀 보라구</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="667" TimeIn="01:16:50:042" TimeOut="01:16:52:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">일어나, 어서</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="668" TimeIn="01:17:30:000" TimeOut="01:17:31:177" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">지금 가야 돼</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="669" TimeIn="01:19:07:156" TimeOut="01:19:10:010" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">일레인, 제발...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="670" TimeIn="01:19:10:010" TimeOut="01:19:11:219" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">너라도 가야 돼</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="671" TimeIn="01:19:13:219" TimeOut="01:19:16:104" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">너 두곤</Text>
+		<Text VAlign="bottom" VPosition="10.00">아무데도 안가</Text>
+	</Subtitle>
+
+
+	<Font Size="45" Italic="yes" Color="FFD7DDFF" Effect="shadow" EffectColor="FF000000">
+		<Subtitle SpotNumber="672" TimeIn="01:21:00:000" TimeOut="01:21:02:094" FadeUpTime="100" FadeDownTime="100">
+		<Text VAlign="bottom" VPosition="20.00">셋째날</Text>
+		</Subtitle>
+	</Font>
+
+
+	<Subtitle SpotNumber="673" TimeIn="01:22:57:198" TimeOut="01:23:01:229" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="18.00">제로드!</Text>
+		<Text VAlign="bottom" VPosition="10.00">제로...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="674" TimeIn="01:24:43:229" TimeOut="01:24:45:125" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">내 애기...</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="675" TimeIn="01:26:04:240" TimeOut="01:26:06:156" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">제로드...?</Text>
+	</Subtitle>
+
+
+	<Font Italic="yes">
+	<Subtitle SpotNumber="676" TimeIn="01:26:25:000" TimeOut="01:26:27:167" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">감독/ 브라더스 스트로즈</Text>
+	</Subtitle>
+	<Subtitle SpotNumber="677" TimeIn="01:26:30:229" TimeOut="01:26:33:198" FadeUpTime="15" FadeDownTime="20">
+		<Text VAlign="bottom" VPosition="14.00">번역/홍주희</Text>
+   	</Subtitle>
+	</Font>
+
+	</Font>
+</DCSubtitle>

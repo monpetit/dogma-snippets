@@ -1,0 +1,7 @@
+*.o
+*.a
+*~
+*.orig
+Makefile
+*.pro.user
+s7-scheme/s7-scheme

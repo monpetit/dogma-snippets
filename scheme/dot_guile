@@ -1,0 +1,155 @@
+;; -*- mode: scheme -*-
+;; vim: set ft=scheme et:
+
+(setlocale LC_ALL "")
+
+(use-modules (ice-9 readline))
+(activate-readline)
+
+(let ((%local-lib-path (string-append (getenv "HOME") "/.local/share/guile")))
+  (set! %load-path (cons %local-lib-path %load-path))
+  (putenv (format #f "LTDL_LIBRARY_PATH=~a" %local-lib-path)))
+
+
+(define (prt . args)
+  (for-each (lambda (x)
+	      (display x)
+	      (display #\space))
+	    args)
+  (newline))
+
+(define (prtln . args)
+  (for-each (lambda (x)
+	      (display x)
+	      (newline))
+	    args))
+
+(define-syntax for
+  (syntax-rules (in)
+    ((_ (n start end) body ...)
+     (do ((n start (1+ n)))
+         ((>= n end))
+       body ...))
+    ((_ (n start end step) body ...)
+     (if (or (and (<= start end) (> step 0))
+             (and (>= start end) (< step 0)))
+         (do ((n start (+ n step)))
+             ((or (and (> step 0) (>= n end))
+                  (and (< step 0) (<= n end))))
+           body ...)))
+    ((_ n in pors body ...)
+     (cond ((procedure? pors)
+            (do ((n (pors)))
+                ((not n))
+              body ...
+              (set! n (pors))))
+           ((list? pors)
+            (dolist (n pors *unspecified*) body ...))))))
+
+
+(define-syntax repeat
+  (syntax-rules ()
+    ((_ times body ...)
+     (if (not (and (integer? times)
+                   (>= times 0)))
+         (error (format #f "~a must be a natural number or zero" times))
+         (do ((i 0 (+ i 1)))
+             ((>= i times))
+           body ...)))
+    ((_ . other)
+     (syntax-error "malformed repeat" (repeat . other)))))
+
+
+
+;;(define-macro repeat
+;;  (lambda (times . body)
+;;    `(if (not (and (integer? ,times)
+;;                   (>= ,times 0)))
+;;         (error (format #f "~a must be a natural number or zero" ,times))
+;;         (do ((i 0 (1+ i)))
+;;             ((>= i ,times))
+;;           ,@body))))
+
+
+(define reduce
+  (lambda args
+    (let ((arg-count (length args)))
+      (if (or (< arg-count 2) (> arg-count 3))
+          (error "Compile Error: wrong number of arguments: reduce requires 2 or 3, but got " arg-count)
+          (let ((op (car args))
+                (base (if (= arg-count 2)
+                          0
+                          (caddr args))))
+            (let loop ((seq (cadr args))
+                       (accumulation base))
+              (if (null? seq) accumulation
+                  (loop (cdr seq) (op (car seq) accumulation)))))))))
+
+;; (reduce + (range 10))
+;; (reduce * (range 10) 1)
+
+(define range
+  (let ((_inner_range
+         (lambda (%start %end %step)
+           (let ((_reverse_range
+                  (lambda (start end step)
+                    (let loop ((cursor start)
+                               (result '()))
+                      (if (or (and (>= cursor end) (> step 0))
+                              (and (<= cursor end) (< step 0)))
+                          result
+                          (loop (+ cursor step)
+                                (cons cursor result)))))))
+             (reverse (_reverse_range %start %end %step))))))
+    (lambda (x . args)
+      (let ((args-len (length args)))
+        (cond ((= args-len 0)
+               (_inner_range 0 x 1))
+              ((= args-len 1)
+               (let ((y (car args)))
+                 (if (<= x y)
+                     (_inner_range x y 1)
+                     (_inner_range x y -1))))
+              ((= args-len 2)
+               (let ((y (car args))
+                     (z (cadr args)))
+                 (if (= z 0)
+                     (error "step parameter must not be zero")
+                     (_inner_range x y z))))
+              (else
+               (error "wrong arguments")))))))
+
+
+
+(define-syntax dotimes
+  (syntax-rules ()
+    ((_ (var n res) . body)
+     (do ((limit n)
+          (var 0 (+ var 1)))
+         ((>= var limit) res)
+       . body))
+    ((_ (var n) . body)
+     (do ((limit n)
+          (var 0 (+ var 1)))
+         ((>= var limit))
+       . body))
+    ((_ . other)
+     (syntax-error "malformed dotimes" (dotimes . other)))))
+
+
+
+(define-syntax dolist
+  (syntax-rules ()
+    ((_ (var lis res) . body)
+     (begin (for-each (lambda (var) . body) lis)
+            (let ((var '())) res))      ;bound var for CL compatibility
+     )
+    ((_ (var lis) . body)
+     (begin (for-each (lambda (var) . body) lis) '()))
+    ((_ . other)
+     (syntax-error "malformed dolist" (dolist . other)))))
+
+(define-syntax comment
+  (syntax-rules ()
+    ((_ body ...) *unspecified*)))
+

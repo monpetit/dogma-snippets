@@ -15,8 +15,9 @@
 *.so
 *.tmp
 *.zip
-*~
+*.orig
 *.bak
+*~
 .hgignore
 .hg/
 hg-local/

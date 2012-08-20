@@ -1,7 +1,29 @@
 // shared_ptr.cpp : Defines the entry point for the console application.
 //
 
-#include "stdafx.h"
+#define BOOST_ALL_DYN_LINK 1
+
+#include <stdio.h>
+#include <boost/shared_ptr.hpp>
+#include <boost/shared_array.hpp>
+#include <string>
+#include <iostream>
+#include <memory>
+#include <list>
+#include <queue>
+#include <cstring>
+
+#include <boost/dynamic_bitset.hpp>
+#include <bitset>
+
+#include <boost/chrono.hpp>
+#include <boost/thread.hpp>
+#include <boost/date_time.hpp>
+
+#include <windows.h>
+
+
+using namespace std;"
 
 
 struct Fruit

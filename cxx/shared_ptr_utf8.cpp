@@ -1,29 +1,7 @@
 // shared_ptr.cpp : Defines the entry point for the console application.
 //
 
-#define BOOST_ALL_DYN_LINK 1
-
-#include <stdio.h>
-#include <boost/shared_ptr.hpp>
-#include <boost/shared_array.hpp>
-#include <string>
-#include <iostream>
-#include <memory>
-#include <list>
-#include <queue>
-#include <cstring>
-
-#include <boost/dynamic_bitset.hpp>
-#include <bitset>
-
-#include <boost/chrono.hpp>
-#include <boost/thread.hpp>
-#include <boost/date_time.hpp>
-
-#include <windows.h>
-
-
-using namespace std;
+#include "stdafx.h"
 
 
 struct Fruit
@@ -74,6 +52,21 @@ void test_dynamic_bitset(void)
     std::cout << "CPU CORE MASK 2 = " << core_mask2 << std::endl;
     std::cout << "CPU CORE MASK 3 = " << core_mask3 << std::endl;
     std::cout << "CPU CORE MASK 3 (value) = " << core_mask3.to_ulong() << std::endl;
+
+    std::bitset<CORE_COUNT> core_mask4;
+    core_mask4[2] = 1;
+    core_mask4[4] = 1;
+    core_mask4[7] = 1;
+
+    std::bitset<CORE_COUNT> core_mask5;
+    core_mask5[1] = 1;
+
+    std::bitset<CORE_COUNT> core_mask6 = core_mask4 | core_mask5;
+
+    std::cout << "CPU CORE MASK 4 = " << core_mask4 << std::endl;
+    std::cout << "CPU CORE MASK 4 (value) = " << core_mask4.to_ulong() << std::endl;
+    std::cout << "CPU CORE MASK 5 = " << core_mask5 << std::endl;
+    std::cout << "CPU CORE MASK 6 = " << core_mask6 << std::endl;    
 }
 
 
@@ -96,7 +89,6 @@ public:
         std::cout << "[CAR:" << sn << "] " << name << " 생성됨!" << std::endl;
         buffer = boost::shared_array<char> (new char[1024]);
         strncpy(buffer.get(), name.data(), name.length());
-        buffer.get()[name.length()] = 0x00;
         
         raw_buffer = new char[10240];
     }
@@ -218,6 +210,59 @@ void test_pqueue(void)
 
 
 }
+
+
+void sleep_test()
+{    
+    for (int i = 0; i < 1000; i++) {
+        boost::chrono::system_clock::time_point start = boost::chrono::system_clock::now();
+        boost::this_thread::sleep_for(boost::chrono::nanoseconds(1600000));
+        boost::chrono::nanoseconds sec  = boost::chrono::system_clock::now() - start;
+        // boost::chrono::duration<double> sec = boost::chrono::system_clock::now() - start;
+        std::cout << "took " << sec.count() << " seconds\n";
+    }
+}
+
+
+///////////////////////////////////////////////////////
+
+typedef NTSTATUS (WINAPI *LPNTDELAYEXECUTION)(BOOLEAN, PLARGE_INTEGER);
+
+bool gimme_native()
+{
+    LPNTDELAYEXECUTION delay_exec;
+    HMODULE obsolete = GetModuleHandle(L"ntdll.dll");
+    // *(FARPROC*)&
+    if (obsolete != NULL) {
+        delay_exec = (LPNTDELAYEXECUTION)GetProcAddress(obsolete, "NtDelayExecution");
+
+        if (delay_exec != NULL) {
+            LARGE_INTEGER interval;
+            interval.QuadPart = - 12000;
+
+
+            for (int i = 0; i < 1000; i++) {
+                boost::chrono::system_clock::time_point start = boost::chrono::system_clock::now();
+
+                NTSTATUS result = delay_exec(FALSE, &interval);
+
+                boost::chrono::nanoseconds sec  = boost::chrono::system_clock::now() - start;
+                // boost::chrono::duration<double> sec = boost::chrono::system_clock::now() - start;
+                std::cout << "took " << sec.count() << " seconds\n";
+            }            
+        }
+    }
+
+    return true;
+}
+
+
+
+
+
+
+////////////////////////////////////////////////////////
+
     
 int main(int argc, char* argv[])
 {
@@ -242,12 +287,15 @@ int main(int argc, char* argv[])
     cout << p->get_name() << endl;
 
     cout << endl << endl;
+#endif
 
     test_dynamic_bitset();
     test_lambda();
-#endif
-
     test_pqueue();
+
+    // sleep_test();
+
+    gimme_native();
 
     return 0;
 }

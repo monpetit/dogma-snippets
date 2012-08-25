@@ -41,6 +41,7 @@ std::string conv_str(std::string src_str,
 #if USE_SHARED_ARRAY
     boost::shared_array<char> dest_buffer = boost::shared_array<char> (new char[dest_len]);
     char* dest = dest_buffer.get();
+    memset(dest, 0, dest_len * sizeof(char));
 #else
     char* dest = (char*) calloc(dest_len, sizeof(char));
 #endif

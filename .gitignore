@@ -17,6 +17,7 @@
 *.zip
 *.orig
 *.bak
+*.beam
 *~
 .hgignore
 .hg/

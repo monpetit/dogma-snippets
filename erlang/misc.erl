@@ -68,3 +68,18 @@ u(Str) -> convert_to_unicode(Str).
 %% Encoding = latin1 / unicode
 set_io_encoding(Encoding) ->
     io:setopts(standard_io, [{encoding, Encoding}]).
+
+dotimes(Count, F) ->
+    dotimes(Count, F, []).
+dotimes(0, _, _) -> ok;
+dotimes(Count, F, Args) ->
+    apply(F, Args),
+    dotimes(Count - 1, F, Args).
+
+%% --- dotimes sample ---
+%% dotimes(10, fun() -> prt(hello) end, []),
+%% dotimes(10, fun(X, Y) ->
+%% 		    prt(X),
+%% 		    prt(Y)
+%% 	    end,
+%% 	[dogma, monpetit]).

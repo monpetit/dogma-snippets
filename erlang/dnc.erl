@@ -7,7 +7,7 @@
 %% 병렬 작업 예제
 %%
 
--module(dnq).
+-module(dnc).
 -export([main/0, main/1]).
 
 prt_str(Str) ->

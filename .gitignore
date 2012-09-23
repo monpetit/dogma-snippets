@@ -18,6 +18,7 @@
 *.orig
 *.bak
 *.beam
+*fsl
 *~
 .hgignore
 .hg/

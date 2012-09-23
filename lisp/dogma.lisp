@@ -250,3 +250,8 @@
   (dogma:foreach #'import functions))
 
 
+;; MACRO: flet* --- labels의 별칭. labels 이름이 맘에 안 들어서…
+;; 올바른 indentation을 위해 다음의 한 줄을 .emacs 설정 파일에 추가할 것.
+;; (put 'flet* 'common-lisp-indent-function '((&whole 4 &rest (&whole 1 &lambda &body)) &body))
+(defmacro flet* (&body body)
+  `(labels ,@body))

@@ -1,5 +1,5 @@
 
-(load "c:/work/dogma-snippets/lisp/dogma.lisp")
+;; (load "c:/work/dogma-snippets/lisp/dogma.lisp")
 
 (defparameter *nodes* '((living-room (you are in the living-room.
                                       a wizard is snoring loudly on the couch.))
@@ -48,17 +48,28 @@
                                    (chain garden)
                                    (frog garden)))
 
-;; (defun objects-at (loc objs obj-locs)
-;;   (flet ((at-loc-p (obj)
-;;            (eq (cadr (assoc obj obj-locs)) loc)))
-;;     (remove-if-not #'at-loc-p objs)))
-
-(defmacro flet* (&body body)
-  `(labels ,@body))
-
 (defun objects-at (loc objs obj-locs)
-  (flet* ((at-loc-p (obj)
-            (eq (cadr (assoc obj obj-locs)) loc)))
+  (flet ((at-loc-p (obj)
+           (eq (cadr (assoc obj obj-locs)) loc)))
     (remove-if-not #'at-loc-p objs)))
 
+;; TEST...
 (objects-at 'living-room *objects* *object-locations*)
+
+
+(defun describe-objects (loc objs obj-loc)
+  (flet ((describe-obj (obj)
+           `(you see a ,obj on the floor.)))
+    (apply #'append (mapcar #'describe-obj (objects-at loc objs obj-loc)))))
+
+;; TEST...
+(flet ((prts (&rest args)
+         (mapcan #'(lambda (x) (princ x) (terpri)) args)))
+  (prts
+   (describe-objects 'living-room *objects* *object-locations*)
+   (describe-objects 'garden *objects* *object-locations*)
+   (describe-objects 'attic *objects* *object-locations*)
+))
+
+
+(defparameter *location* 'living-room)

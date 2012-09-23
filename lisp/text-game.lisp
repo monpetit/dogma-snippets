@@ -1,6 +1,18 @@
 
 ;; (load "c:/work/dogma-snippets/lisp/dogma.lisp")
 
+(defmacro test-prt (&body body)
+  `(flet ((prts (&rest args)
+            (mapcan #'(lambda (x) (princ x) (terpri)) args)))
+     (prts
+      ,@body)))
+
+(defmacro defspel (&rest rest) `(defmacro ,@rest))
+
+;;
+;; ===============================================================
+;;
+
 (defparameter *nodes* '((living-room (you are in the living-room.
                                       a wizard is snoring loudly on the couch.))
                         (garden (you are in a beautiful garden.
@@ -63,13 +75,51 @@
     (apply #'append (mapcar #'describe-obj (objects-at loc objs obj-loc)))))
 
 ;; TEST...
-(flet ((prts (&rest args)
-         (mapcan #'(lambda (x) (princ x) (terpri)) args)))
-  (prts
-   (describe-objects 'living-room *objects* *object-locations*)
-   (describe-objects 'garden *objects* *object-locations*)
-   (describe-objects 'attic *objects* *object-locations*)
-))
-
+(test-prt
+  (describe-objects 'living-room *objects* *object-locations*)
+  (describe-objects 'garden *objects* *object-locations*)
+  (describe-objects 'attic *objects* *object-locations*))
 
 (defparameter *location* 'living-room)
+
+(defun look ()
+  (append (describe-location *location* *nodes*)
+          (describe-paths *location* *edges*)
+          (describe-objects *location* *objects* *object-locations*)))
+
+;; TEST...
+(test-prt (look))
+(assoc *location* *edges*)
+
+(defun walk-direction (direction)
+  (let ((next (find direction
+                    (cdr (assoc *location* *edges*))
+                    :key #'cadr)))
+    (if next
+        (progn
+          (setf *location* (car next)) ;; new location
+          (look))
+        '(you cannot go thay way.))))
+
+(defspel walk (direction)
+  `(walk-direction ',direction))
+
+
+(defun pickup-object (object)
+  (cond ((member object
+                 (objects-at *location* *objects* *object-locations*))
+         (push (list object 'body) *object-locations*)
+         `(you are now carring the ,object))
+        (t '(you cannot get that.))))
+
+(defspel pickup (object)
+  `(pickup-object ',object))
+
+(defun inventory ()
+  (cons 'items- (objects-at 'body *objects* *object-locations*)))
+
+(defun say-hello ()
+  (print "Please type your name:")
+  (let ((name (read)))
+    (print "Nice to meet you, ")
+    (print name)))

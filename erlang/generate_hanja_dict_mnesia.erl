@@ -92,8 +92,23 @@ find_hangul(Hangul) ->
 		   X#hangul_hanja.hangul =:= Hangul
 	     ])).
 
+show_hangul(Hangul) ->
+    Result = find_hangul(Hangul),
+    lists:foreach(
+      fun({hangul_hanja, Hg, Hj, Mn}) ->
+	      io:put_chars(Hg ++ ":" ++ Hj ++ ":" ++ binary_to_term(Mn) ++ "\n")
+      end, Result).
 
+find_hanja(Hanja) ->
+    do(qlc:q([X || X <- mnesia:table(hanja_hangul),
+		   X#hanja_hangul.hanja =:= Hanja
+	     ])).
 
-
+show_hanja(Hanja) ->
+    case find_hanja(Hanja) of
+	[{hanja_hangul, Hj, Hg, Mn}] ->
+	    io:put_chars(Hj ++ ":" ++ Hg ++ ":" ++ binary_to_term(Mn) ++ "\n");
+	_ -> ok
+    end.
 
 %% vim: set ft=erlang et:

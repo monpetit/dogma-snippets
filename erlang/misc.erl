@@ -16,8 +16,10 @@ newline() ->
 prt(O) ->
     io:format("~p~n", [O]).
 
-prt_str(Str) ->
+puts(Str) ->
     io:format(Str ++ "~n").
+
+prt_str(Str) -> puts(Str).
 
 foreach(_, []) -> ok;
 foreach(F, [H|T]) ->

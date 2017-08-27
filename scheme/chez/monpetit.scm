@@ -3,7 +3,7 @@
   (case-lambda
     (() (newline))
     ((o) (begin (display o) (newline)))
-    ((o . rest) (begin (display o) (display #\space) (apply prt rest)))))
+    ((o . rest) (begin (display o) (display #\space) (apply prc rest)))))
 
 
 (define prt

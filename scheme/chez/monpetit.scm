@@ -47,6 +47,46 @@
     ((_ . other)
      (syntax-error "malformed dotimes" (dotimes . other)))))
 
+(define-syntax forever
+  (lambda (stx)
+    (syntax-case stx ()
+      ((?kwd ?body ...)
+       (with-syntax
+        ((BREAK (datum->syntax #'?kwd 'break)))
+        #'(call/cc
+            (lambda (escape)
+              (let-syntax
+                  ((BREAK (identifier-syntax (escape))))
+                (let loop ()
+                  (begin ?body ...)
+                  (loop))))))))))
+
+(define-syntax for-loop
+  (lambda (stx)
+    (syntax-case stx ()
+      ((?kwd (?var ?from ?to) ?body ...)
+       (with-syntax
+        ((BREAK (datum->syntax #'?kwd 'break)))
+        #'(call/cc
+            (lambda (escape)
+              (let-syntax
+                  ((BREAK (identifier-syntax (escape))))
+                (let loop ((?var ?from))
+                  (when (< ?var ?to)
+                    (begin ?body ...)
+                    (loop (+ 1 ?var)))))))))
+      ((?kwd (?var ?from ?to ?step) ?body ...)
+       (with-syntax
+        ((BREAK (datum->syntax #'?kwd 'break)))
+        #'(call/cc
+            (lambda (escape)
+              (let-syntax
+                  ((BREAK (identifier-syntax (escape))))
+                (let loop ((?var ?from))
+                  (when (< ?var ?to)
+                    (begin ?body ...)
+                    (loop (+ ?step ?var))))))))))))
+
 (define indent-margin 2)
 
 (define (print-list ls depth)

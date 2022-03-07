@@ -8,7 +8,7 @@ cdef extern from "Python.h":
     void Py_Initialize()
     int Py_FinalizeEx()
     int PyRun_SimpleString(const char *command)
-    wchar_t* PyUnicode_AsWideCharString(object, Py_ssize_t *)
+    wchar_t* PyUnicode_AsWideCharString(object, Py_ssize_t *) except NULL
     void PyMem_Free(void *p)
 
 cdef extern from "wchar.h":
